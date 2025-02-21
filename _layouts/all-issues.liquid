@@ -1,0 +1,96 @@
+---
+classes:
+  - all-issues-layout
+  - main-layout
+layout: base.11ty.js
+eleventyNavigation:
+  hide: true
+---
+
+<section class="all-issues-section">
+   <div class="main-heading-section ">
+      <div class="">
+         <h1 class="main-heading">All Issues</h1>
+      </div>
+   </div>
+   <div class="all-issues--main">
+      {% for iss in collections.allIssues | sort: "series_issue_number", "desc" %}
+         <div class="accordion theme-{{ iss.pallette }}">
+            <button  class="accordion-button">
+               <span class="issue-number ">{{ iss.series_issue_number }}</span><span class="issue-text">{{ iss.pub_date }}</span>
+               <span class="issue-collapse-icon">
+                  <svg>
+                     <switch>
+                        <use xlink:href="#minus-icon"></use>
+                     </switch>
+                  </svg>
+               </span>
+               <span class="issue-expand-icon">
+                  <svg>
+                     <switch>
+                        <use xlink:href="#plus-icon"></use>
+                     </switch>
+                  </svg>
+               </span>
+            </button>
+            <div class="accordion-panel">
+               <a class="accordion-panel--row accordion-panel--heading" role="heading" aria-level="3">
+                  <span class="heading-text">Issue Overview</span>
+                  <span class="accordion-panel--row-icon">
+                     <svg>
+                        <switch>
+                           <use xlink:href="#arrow-forward-icon"></use>
+                        </switch>
+                     </svg>
+                  </span>
+               </a>
+
+               {% for p in iss.articles | sort: "order" %}
+                  <div class="accordion-panel--row">
+                     <div class="accordion-panel--row--first">
+                        <div class="accordion-panel--row--first-section">
+                           <span><span class="title-text theme-text">{{ p.type | upcase }}</span><a href="">{{ p.title_html }}</a></span>
+                           <!-- TODO: Use contributor type here for "Author" -->
+                           <span><span class="title-text">Author</span>
+                                   {% for c in p.contributors %}
+                                       {{ c }}
+                                       <br>
+                                       {% comment %}TODO: Attribution type{% endcomment %}
+                                   {% endfor %}
+                              </span>
+                           </div>
+                        <div>
+                           <p>
+                              <span class="title-text">Summary</span>
+                              {{ p.summary_html }}
+                           </p>
+                           {% if summaryTail.size > 0 %}
+                           <button class="read-more-details" onclick="readMoreDetails(this)">
+                              Read more
+                              <span class="">
+                                 <svg>
+                                    <switch>
+                                       <use xlink:href="#plus-icon"></use>
+                                    </switch>
+                                 </svg>
+                              </span>
+                           </button>
+                           {% endif %}
+                        </div>
+                     </div>
+                     <span class="accordion-panel--row-icon">
+                        <svg>
+                           <a href="{{p._id}}">
+                              <switch>
+                                 <use xlink:href="#arrow-forward-icon"></use>
+                              </switch>
+                           </a>
+                        </svg>
+                     </span>
+                  </div>
+               {% endfor %}
+            </div>
+         </div>
+      {% endfor %}
+   </div>
+</section>

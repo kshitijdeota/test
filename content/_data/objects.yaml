@@ -1,0 +1,8 @@
+object_display_order:
+  - artist
+  - year
+  - dimensions
+  - medium
+  - location
+
+object_list:

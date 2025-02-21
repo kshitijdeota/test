@@ -1,0 +1,382 @@
+# ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'http://localhost:8080'
+
+# ------------------------------------------------------------------------------
+# Title & Description
+# ------------------------------------------------------------------------------
+title: "British Art Studies"
+subtitle: "Issue 1 – November 2015"
+reading_line:
+short_title:
+
+description:
+  one_line:
+  full: "British Art Studies provides an innovative space for new peer-reviewed scholarship on all aspects of British art, architecture, and visual culture in their most diverse and international contexts."
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2015-11-16 # YYYY-MM-DD
+language: en
+pub_type: journal-periodical # book | journal-periodical | other
+
+identifier:
+  issn: 2058-5462
+
+publisher:
+  - name: Paul Mellon Centre for Studies in British Art and Yale Center for British Art
+    location: London and New Haven
+    url:
+    logo: logo-getty.png
+
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears:
+
+contributor:
+  - id: ageorge
+    type: secondary
+    first_name: Adrian
+    last_name: George
+    full_name: "Adrian George"
+    title: "Curator"
+    affiliation: "Government Art Collection"
+    bio: "Curator, Government Art Collection, UK"
+    pic: "images/contributors/ageorge.jpg"
+
+  - id: amarr
+    type: secondary
+    first_name: Alexander
+    last_name: Marr
+    full_name: "Alexander Marr"
+    title: "Reader in the History of Early Modern Art"
+    affiliation: "University of Cambridge"
+    bio: "Alexander Marr is Reader in the History of Early Modern Art at the University of Cambridge and a Fellow of Trinity Hall. His recent books include the co-authored monograph *Logodaedalus: Word Histories of Ingenuity in Early Modern Europe* (University of Pittsburgh Press, 2019) and *Rubens's Spirit: From Ingenuity to Genius* (forthcoming from Reaktion Books, 2021)."
+    pic: "images/contributors/amarr.jpg"
+
+  - id: atobin
+    type: secondary
+    first_name: Amy
+    last_name: Tobin
+    full_name: "Amy Tobin"
+    title: "Lecturer in the History of Art and Curator of Exhibitions, Events and Research at Kettle's Yard"
+    affiliation: "University of Cambridge"
+    pic: "images/contributors/atobin.jpg"
+
+  - id: baseditorial
+    type: secondary
+    first_name: British Art Studies
+    last_name: Editorial Group
+    full_name: "British Art Studies Editorial Group"
+    pic: "images/contributors/bas.jpg"
+
+  - id: cgware
+    type: secondary
+    first_name: Cora
+    last_name: Gilroy-Ware
+    full_name: "Cora Gilroy-Ware"
+    title: "Associate Professor, History of Art"
+    affiliation: "University of Oxford"
+    pic: "images/contributors/cgware.jpg"
+
+  - id: clauson
+    type: secondary
+    first_name: Cliff
+    last_name: Lauson
+    full_name: "Cliff Lauson"
+    title: "Senior Curator"
+    affiliation: "Hayward Gallery, Southbank Centre"
+    pic: "images/contributors/clauson.jpg"
+
+  - id: clevenson
+    type: secondary
+    first_name: Cyra
+    last_name: Levenson
+    full_name: "Cyra Levenson"
+    affiliation: "Yale Center for British Art"
+    bio: "Cyra Levenson is Associate Curator of Education at the Yale Center for British Art. In 2014, along with Ph.D. candidates Esther Chadwick and Meredith Gamer, she curated *Figures of Empire: Slavery and Portraiture in Eighteenth-Century Atlantic Britain* at YCBA."
+    pic: "images/contributors/clevenson.jpg"
+
+  - id: cspencer
+    type: secondary
+    first_name: Catherine
+    last_name: Spencer
+    full_name: Catherine Spencer
+    title: "Lecturer in Modern and Contemporary Art"
+    affiliation: "University of St Andrews"
+    bio: "Catherine Spencer is Lecturer in Modern and Contemporary Art at the University of St Andrews. Her research and teaching interests focus on performance art since 1960, technologies of mediation, and feminism; she has published articles on these areas in *Art History*, *Tate Papers* and *Oxford Art Journal*. She has also written on abstraction and the legacies of modernism, including essays on the painter Prunella Clough for *British Art Studies*, and the work of Jay DeFeo in *Tate Papers*. With Jo Applin and Amy Tobin she is the co-editor of *London Art Worlds: Mobile, Contingent and Ephemeral Networks, 1960-1980* (Penn State University Press, 2018). Catherine has recently been awarded a Philip Leverhulme Research Fellowship for a book project on the relationship between performance art, counterculture and sociology, and will be on research leave from January 2018-September 2019."
+    pic: "images/contributors/cspencer.jpg"
+
+  - id: cyang
+    type: secondary
+    first_name: Chi-ming
+    last_name: Yang
+    full_name: "Chi-ming Yang"
+    affiliation: "Princeton University"
+    bio: "Chi-ming Yang received her Ph.D. in English from Cornell University and her B.A. in Comparative Literature from Stanford University with emphases in Spanish, Chinese, and English. She specializes in the literary and visual culture of race and empire, with a focus on East-West cultural exchanges stretching from the early modern period to the 18th century, and up to the contemporary moment. Her scholarship is interdisciplinary and comparative in approach, crossing the bounds of British, American, Asian, and Latin American studies. Primary fields of research include: transatlantic/transpacific exchanges; science and race; material culture and globalism; contemporary/postcolonial art, film, and visual culture. Her book, *Performing China: Virtue, Commerce, and Orientalism in Eighteenth-century England, 1660-1760* (Johns Hopkins University Press, 2011), is a study of the European fascination with Asia. It examines how China became an intensely debated example of virtue amidst England’s new consumer culture. Her new work concerns race, chinoiserie, transatlantic slavery, and the cultural impact of global flows of silver between Latin America and East Asia."
+    pic: "images/contributors/cyang.jpg"
+
+  - id: dpcorbett
+    type: secondary
+    first_name: David Peters
+    last_name: Corbett
+    affiliation: Courtauld Institute of Art
+
+  - id: gbrockington
+    type: secondary
+    first_name: Grace
+    last_name: Brockington
+    title: "Senior Lecturer in the History of Art"
+    affiliation: "University of Bristol"
+    bio: "Grace Brockington is Senior Lecturer in the History of Art at the University of Bristol. As a specialist in modern British art, she has written about art in relation to war and pacifism, internationalism, the Bloomsbury group, puppetry, and universal language. Together with Sarah Victoria Turner, she convened the AHRC-funded research network “Internationalism and Cultural Exchange, 1870–1920” (2009–2014). She was guest curator of the exhibition *Gaudier-Brzeska: Disputing the Earth* (Royal West of England Academy, 2019)."
+    pic: "images/contributors/jhorton.jpg"
+
+  - id: gcole
+    type: secondary
+    first_name: Georgina
+    last_name: Cole
+    full_name: "Georgina Cole"
+    title: "Lecturer in Art History and Theory"
+    affiliation: "National Art School, Sydney"
+    bio: "Georgina Cole is an art historian specializing in eighteenth-century art and theory. She received her PhD from the University of Sydney in 2010 with a thesis on doors and the visuality of genre painting in eighteenth-century France and Britain. In 2011 she was a Visiting Scholar at the Yale Center for British Art in New Haven and at present is Lecturer in Art History and Theory at the National Art School, Sydney. Her current research examines representations of blindness and the blind in eighteenth-century British art and the relationships between sensation, epistemology, and morality in Enlightenment thinking."
+    pic: "images/contributors/gcole.jpg"
+
+  - id: gsmith
+    type: secondary
+    first_name: Giulia
+    last_name: Smith
+    full_name: "Giulia Smith"
+    title: "Ruskin School of Art"
+    affiliation: "Oxford University"
+    bio: "Giulia Smith is completing her PhD in the History of Art Department, University College London. The title of her thesis is \"The Biological Imaginary of the Independent Group: Regeneration in Post-War Britain\". She is a Teaching Fellow at UCL on modern and contemporary art and Editorial Assistant at the *Oxford Art Journal*."
+    pic: "images/contributors/gsmith.jpg"
+
+  - id: jboaden
+    type: secondary
+    first_name: James
+    last_name: Boaden
+    full_name: "James Boaden"
+    title: "Lecturer, History of Art"
+    affiliation: "University of York"
+    bio: "James Boaden is a Lecturer in History of Art at the [https://www.york.ac.uk/history-of-art/staff/boaden/](University of York). His research focuses on American art from the mid-twentieth century, and looks in particular at the crossover between experimental film culture and the art world during that period."
+    pic: "images/contributors/jboaden.jpg"
+
+  - id: jhawkes
+    type: secondary
+    first_name: Jane
+    last_name: Hawkes
+    full_name: "Jane Hawkes"
+    affiliation: "University of York"
+    pic: "images/contributors/jhawkes.jpg"
+
+  - id: jlaw
+    type: secondary
+    first_name: Jonathan
+    last_name: Law
+    full_name: "Jonathan Law"
+    title: "Research Fellow and Filmmaker"
+    bio: "Jonathan Law is a filmmaker, researcher and lecturer who works with the Centre on a freelance basis. As Research Fellow and Filmmaker, Jonathan is responsible for developing and producing collaborative research-led film content for the Paul Mellon Centre's research publications and for special public screenings. Some of his recent work includes *The Famous Women Dinner Service: In Conversation With Contemporary Art* (2019, 17min), *The Atmospherics of Leighton House* (2018, 6min) and short films for the award-winning digital publication *The Royal Academy Summer Exhibition: A Chronicle, 1769–2018* (2018, various duration).
+        
+        Amongst other current projects Jonathan is currently developing a film, with Rosie Ram and Mark Hallett, on the collage of Nigel Henderson, for display as part of the Tate Britain display *Vital Fragments: Nigel Henderson and the Art of Collage* (opening December 2019). Jonathan regularly contributes peer-reviewed film content to [http://britishartstudies.ac.uk](British Art Studies), the PMC's award-winning, open-access online research journal.
+        
+        Jonathan has produced films for institutions including the Yale Center for British Art (on the work of artists George Shaw and Nicola Hicks), Tate (on Barbara Hepworth), and the Heong Gallery at Cambridge University (on British modernist painting). His films have been screened at Tate Liverpool, the Esker Foundation in Calgary, the Kunstmuseum Liechtenstein in Vaduz and at the Culture Capital Exchange Inside/Out festival in London.
+        
+        Jonathan was recently Teaching Fellow in Film Studies at Queen Mary, University of London, and has also taught Essay Filmmaking (The Derek Jarman Lab, Birkbeck College), Media and Film Production (University of West London), History and Philosophy of Photography (University of Kent), and Art History, Criticism and Communication (Central Saint Martins). Jonathan also delivered lectures and exhibition tours for ten years at the Royal Academy of Arts, London.
+        
+        Jonathan's scholarly research has been particularly focused on cinema and multisensory culture. He holds a PhD in History and Philosophy of Art from the University of Kent, a PGCHE from the University of Kent, an MRes in Humanities and Cultural Studies from the London Consortium (University of London) and a BA in Fine Art from the University of Wolverhampton."
+    pic: "images/contributors/jlaw.jpg"
+
+  - id: jmunns
+    type: secondary
+    first_name: John
+    last_name: Munns
+    affiliation: University of Cambridge
+
+  - id: kfiedorek
+    type: secondary
+    first_name: Kara
+    last_name: Fiedorek
+    full_name: "Kara Fiedorek"
+    affiliation: "Institute of Fine Arts"
+    bio: "Kara Fiedorek is a PhD candidate in the history of art at New York University’s Institute of Fine Arts; she received her BA in the history of art from Yale. Her research focuses on nineteenth- and twentieth-century art with an emphasis on the history of photography. Her dissertation, “Priests of the Sun: Photography and Faith, 1860–1910”, investigates how religious beliefs motivated English and American photographers at a time of rising secularism. Research and writing have been supported in part by a Connoisseurs Circle Fellowship at IFA, a Junior Fellowship at the Paul Mellon Centre, and a Graduate Research Initiative Summer Fellowship at NYU in Berlin. Her Master’s thesis on Walker Evans explored his act of espionage in his subway photographs (1938–41), resituating a series that was exhibited and published in the 1960s within the wartime conditions and social consciousness of its production in the 1930s. She has worked as an exhibition research assistant in the Photography Collection at the New York Public Library and as a lecturer in the Department of Photography & Imaging at NYU’s Tisch School of the Arts. Currently, she is the graduate curatorial assistant at NYU’s Grey Art Gallery."
+    pic: "images/contributors/kfiedorek.jpg"
+
+  - id: lhimid
+    type: secondary
+    first_name: Lubaina
+    last_name: Himid
+    full_name: "Lubaina Himid"
+    pic: "images/contributors/lhimid.jpg"
+
+  - id: kgday
+    type: secondary
+    first_name: Ken
+    last_name: Gonzales-Day
+    full_name: "Ken Gonzales-Day"
+    title: "Artist"
+    bio: "Ken Gonzales-Day's interdisciplinary and conceptually grounded projects consider the history of photography, the construction of race, and the limits of representational systems ranging from the lynching photograph to museum display. Ken Gonzales-Day received his MFA from UC Irvine; MA from Hunter College; was a Van Leer Fellow at the Whitney Museum’s ISP. He was a Senior Fellow and a SARF Fellow at the Smithsonian Institution. Gonzales-Day’s photographs have been exhibited at: The J. Paul Getty Museum; LACMA; The Santa Barbara Museum of Art; Smithsonian American Art Museum; The New Museum; REDCAT; LAXART; Palais de Tokyo, Paris; Generali Foundation, Vienna; Museum of the City, Mexico City, among others. His Books include *Lynching in the West: 1850-1935* (Duke) and *Profiled* (LACMA)."
+    pic: "images/contributors/kgday.jpg"
+
+  - id: lprettejohn
+    type: secondary
+    first_name: Elizabeth
+    last_name: Prettejohn
+    full_name: "Elizabeth Prettejohn"
+    title: "Professor, History of Art"
+    affiliation: "University of York"
+    pic: "images/contributors/lprettejohn.jpg"
+
+  - id: mcappock
+    type: secondary
+    first_name: Margarita
+    last_name: Cappock
+    full_name: "Margarita Cappock"
+    title: "Head of Collections"
+    affiliation: "Dublin City Gallery The Hugh Lane"
+    bio: "Deputy Director and Head of Collections, Dublin City Gallery The Hugh Lane Gallery, Dublin"
+    pic: "images/contributors/mcappock.jpg"
+
+  - id: mhammer
+    type: secondary
+    first_name: Martin
+    last_name: Hammer
+    full_name: "Martin Hammer"
+    title: "Professor of Art History"
+    affiliation: "University of Kent"
+    bio: "Martin Hammer is Professor of Art History at the University of Kent and currently Head of the School of Arts. His many publications have engaged with the art of Naum Gabo, Graham Sutherland, and Francis Bacon (e.g. *Francis Bacon and Nazi Propaganda*, Tate, 2012); with the idea of the Naked Portrait, the theme of an exhibition he curated in 2007 for the Scottish National Portrait Gallery and Compton Verney; and, more recently, patterns of transatlantic artistic exchange, with particular reference to the early work of David Hockney."
+    pic: "images/contributors/mhammer.jpg"
+
+  - id: moneill
+    type: secondary
+    first_name: Morna
+    last_name: "O'Neill"
+    full_name: "Morna O'Neill"
+    title: "Professor of Art History in the Department"
+    affiliation: "Wake Forest University"
+    bio: "Morna O'Neill is Professor of Art History in the Department of Art at Wake Forest University. She is the author of *Walter Crane: The Arts and Crafts, Painting, and Politics* (Yale University Press, 2011) and *Hugh Lane: The Art Market and the Art Museum, 1893–1915* (Yale University Press, 2018). Her current research addresses the conjunction of artistic and industrial materials and methods in the decades before the Great Exhibition of 1851. This proposed talk draws upon research for this project, as she positions Constable, Lucas and their fraught collaboration on *English Landscap* in relationship to the use of steel plates and contemporary debates about the industrialisation of printmaking."
+    pic: "images/contributors/moneill.jpg"
+
+  - id: prousseau
+    type: secondary
+    first_name: Paul
+    last_name: Rousseau
+    full_name: "Paul Rousseau"
+    affiliation: "The John Deakin Archive"
+    bio: "Paul Rousseau has been working with the James Moores Collection as archivist and researcher for 8 years, handling storage and preservation as well digitization and cataloguing. Lately he has been concentrating on the photography collection, particularly the life, career and milieu of John Deakin and his relationship with Francis Bacon."
+    pic: "images/contributors/prousseau.jpg"
+
+  - id: rjohns
+    type: secondary
+    first_name: Richard
+    last_name: Johns
+    title: "Senior Lecturer in History of Art"
+    affiliation: "University of York"
+    bio: "Richard Johns is Senior Lecturer in History of Art at the University of York where his research and teaching encompasses various aspects of British art. Landscape-related publications include *Framing Robert Aggas: The Painter-Stainers’ Company and the English School of Painters* (2008), *Turner and the Sea* with Christine Riding (2013) and *From the Nore: Turner at the Mouth of the Thames* (2016). In 2019 he co-curated the exhibition *Ruskin, Turner & the Storm Cloud* with Suzanne Fagence Cooper."
+    pic: "images/contributors/rjohns.jpg"
+
+  - id: rmalbert
+    type: secondary
+    first_name: Roger
+    last_name: Malbert
+    full_name: "Roger Malbert"
+    title: "Head, Hayward Touring"
+    affiliation: "Southbank Centre"
+    bio: "Roger Malbert is Head of Hayward Touring at the Southbank Centre. He studied philosophy, then illustration at the School of Art in Cambridge. He had previously worked Kettle's Yard, Cambridge, as a sessional assistant, then full-time Assistant Curator to Paul Clough."
+    pic: "images/contributors/rmalbert.jpg"
+
+  - id: rwentworth
+    type: secondary
+    first_name: Richard
+    last_name: Wentworth
+    full_name: "Richard Wentworth"
+    title: "Artist"
+    pic: "images/contributors/rwentworth.jpg"
+
+  - id: svturner
+    type: secondary
+    first_name: Sarah
+    last_name: Victoria Turner
+    full_name: "Sarah Victoria Turner"
+    title: "Deputy Director"
+    affiliation: "Paul Mellon Centre for Studies in British Art"
+    bio: "Sarah Victoria Turner is Deputy Director for Research at the Paul Mellon Centre. Sarah is the founding co-editor of *British Art Studies*, an award-winning, open-access journal launched in 2015. She works closely with colleagues at the PMC to develop digital projects that enable new ideas and narratives about British art to circulate beyond the physical walls of the Centre. She is the co-editor of *The Royal Academy Summer Exhibition: A Chronicle, 1769–2018*, an open-access and peer reviewed digital publication consisting of texts from over 90 authors."
+    url: https://orcid.org/0000-0002-0523-7643
+    pic: "images/contributors/svturner.jpg"
+
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2015–2022 Yale University
+
+license:
+  name: Creative Commons Attribution-NonCommercial 4.0 International Licence
+  abbreviation: CC BY-NC 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: text-only
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /downloads/output.pdf
+  - type: other-format
+    name: EPUB
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: /downloads/output.epub
+  - type: footer-link
+    name: About
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url:
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url:
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: keywords
+    name: photography, black-and-white, great despression
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: static-cover.jpg

@@ -1,0 +1,39 @@
+---
+classes:
+  - main-layout
+layout: base.11ty.js
+eleventyNavigation:
+  hide: true
+---
+<section class="search-section">
+  <div class="main-heading-section ">
+    <div class="">
+      <h1 class="main-heading">Browse &amp; Search</h1>
+    </div>
+    <div class="search-form">
+      <div class="field has-addons">
+        <div class="control is-expanded">
+          <input class="input" id="js-search-input"
+          name="search"
+          oninput="handleBASSearch()"
+          type="search"
+          value="" placeholder="enter search term">
+        </div>
+        <div class="control">
+          <button class="button">
+            <svg>
+              <switch>
+                <use xlink:href="#search-icon"></use>
+              </switch>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <bas-search-browse endpoint="https://bas-issue-framework-8969694771.us-east-1.bonsaisearch.net/bas-journal-stage"
+                    username="CE4SsYiJkc"
+                    password="HraK36EXbufmdZniW"
+                    pageSize="30"
+                    search-term=""></bas-search-browse>
+</section>

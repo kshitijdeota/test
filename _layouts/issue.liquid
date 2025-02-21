@@ -1,0 +1,124 @@
+---
+classes:
+- quire-cover
+- main-layout
+description: Quire publication cover page
+layout: base.11ty.js
+---
+{% assign coverFigure = issue.cover_figure | getFigure %}
+{% assign coverFigureSrc = config.figures.imageDir | concat: coverFigure.src | join: '/' %}
+{% assign themeColor = issue.pallette %}
+
+{% comment %}
+- TODO: Fix contributor join (commas, and, etc) or use quire stock
+- TODO: Contribution type (by, edited, artist, etc)
+{% endcomment %}
+
+{% assign navPages = collections.html | eleventyNavigation %}
+
+<section class="container is-max-desktop heading-container">
+    <h1 class="heading">British Art Studies provides an innovative space for new peer-reviewed scholarship on all
+        aspects of British art, architecture, and visual culture in their most expansive contexts.</h1>
+</section>
+<section class="issue-section">
+    <!-- TODO: add a 40px / 2.5rem spacer if there is no prevIssue -->
+    <!-- TODO: image -->
+    {% if prevIssue %}
+    <button class="issue-section--button theme-{{ prevIssue.pallette }}" data-href="{{ prevIssue._id }}">
+        <div class="issue-section--prev">Issue <span class="issue-section--prev--num">{{ prevIssue.series_issue_number }}</span></div>
+        <div role="presentation" class="issue-section--button--image"></div>
+    </button>
+    {% endif %}
+    <div class="issue-section--main theme-{{ themeColor }}">
+        <div class="sub-heading-section">
+          <h2 class="sub-heading">{{ publication.short_title }}</h2>
+        </div>
+
+        {% if issue.special_themed %}
+        <div class="theme-heading-section">
+          <h2 class="theme-heading">{{ publication.subtitle | markdownify }}
+          <small>{{ publication.reading_line | markdownify  }}</small>
+          </h2>
+
+        </div>
+        {% endif %}
+
+        <div class="">
+            {% if coverFigure %}
+            <figure class="is-relative">
+                <div class="issue-section--main--image">
+                    <img src="{{ coverFigureSrc }}"
+                        alt="{{ coverFigure.alt }}"
+                        fetchpriority="high"
+                        decoding="async" />
+                    <button id="caption-button" class="caption-button" onclick="toggleCaptionDetails(this)">Caption</button>
+                </div>
+                <div id="caption-details" class="caption-details is-closed">
+                    <figcaption>
+                        <span>{{ coverFigure.caption | markdownify }}</span>
+                        <span>{{ coverFigure.credit | markdownify }}</span>
+                    </figcaption>
+                    <button class="close-button" onclick="toggleCaptionDetails(this)">
+                        <svg>
+                        <switch>
+                            <use xlink:href="#close-icon"></use>
+                        </switch>
+                        </svg>
+                        <span class="visually-hidden">Hide Caption Section</span>
+                    </button>
+                </div>
+            </figure>
+            {% endif %}
+        </div>
+        <div class="columns is-multiline is-gapless is-mobile">
+            {% for p in navPages | sort: "order" %}
+
+                {% if p.hide %}{% continue %}{% endif %}
+
+                {% assign pageType = p.key | getPageType %}
+                {% assign pageImage = p.key | getTileFigureSrc %}
+
+                {% if pageImage %}
+                    {% assign pageImageSrc = config.figures.imageDir | concat:  pageImage | join: '/' %}
+                {% else %}
+                    {% assign pageImageSrc = 'https://versions.bulma.io/0.7.0/images/placeholders/1280x960.png' %}
+                {% endif %}
+
+                <div class="column is-half-mobile
+                is-one-third-tablet is-one-fifth-desktop">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image">
+
+                                <img src="{{ pageImageSrc }}"
+                                    alt="Placeholder image" >
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <span class="card-page-type">{{ pageType | upcase }}</span>
+                            <div class="content">
+                                <a href="{{p.url}}">{{ p.title | markdownify }}</a>
+                            </div>
+                            <div class="card-contributor">
+                                <span>{% if p.data.contributor.size > 0 %}{{ p.data.attribution_type | default: '' | capitalize }}{% endif %}</span>
+                                {% for c in p.data.contributor %}
+                                    {% assign contrib = c | getContributor %}
+                                    {{ contrib.full_name }}
+                                    <br>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    <!-- TODO: add a 40px / 2.5rem spacer if there is no prevIssue -->
+    <!-- TODO: image -->
+    {% if nextIssue %}
+    <button class="issue-section--button theme-{{ nextIssue.pallette }}" data-href="{{ nextIssue._id }}">
+        <div class="issue-section--next">Issue <span class="issue-section--next--num">{{ nextIssue.series_issue_number }}</span></div>
+        <div role="presentation" class="issue-section--button--image"></div>
+    </button>
+    {% endif %}
+</section>

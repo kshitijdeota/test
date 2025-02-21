@@ -1,0 +1,170 @@
+---
+classes:
+  - quire-essay
+  - main-layout
+layout: base.11ty.js
+description: Essay layout. This layout describes a single-page template that has been augmented with the ability to display a frontmatter-defined abstract (in markdown format) as well as bibliography references.
+---
+{% comment %}
+  TODO (exhibs):
+    - add exhibition-layout and remove quire-essay if it's an exhibition?
+{% endcomment %}
+
+{% assign bannerFigure = banner_figure | getFigure %}
+{% assign pageType = key | getPageType %}
+
+{% if type == 'exhibition' %}
+  {% assign featureTypeClass = 'exhibition' %}
+  {% assign animationClass = 'animate__animated animate__slideInUp' %}
+{% else %}
+  {% assign featureTypeClass = 'article' %}
+  {% assign animationClass = '' %}
+{% endif %}
+
+{% if bannerFigure.src %}
+    {% assign pageImageSrc = config.figures.imageDir | concat: bannerFigure.src | join: '/' %}
+{% else %}
+    {% assign pageImageSrc = 'https://versions.bulma.io/0.7.0/images/placeholders/1280x960.png' %}
+{% endif %}
+
+<section class="{{ featureTypeClass }}-section theme-{{ issue.pallette }}">
+  <div id="sub-heading-mobile" class="sub-heading-mobile-section p-2 is-hidden-tablet">
+    <h2 class="sub-heading-mobile">{{title | markdownify}}</h2>
+  </div>
+  <div class="sub-heading-section">
+    <button class="menu-button" id="quire-controls-menu-button" onclick="toggleContentMenu()" aria-expanded="false"
+      aria-controls="quire-menu" tabindex="2">
+      <svg id="toc-btn-inactive">
+        <switch>
+          <use xlink:href="#list-icon"></use>
+        </switch>
+      </svg>
+      <svg id="toc-btn-active" class="is-hidden">
+        <switch>
+        <use xlink:href="#close-icon"></use>
+        </switch>
+      </svg>
+      <span class="visually-hidden">Table of Contents</span>
+    </button>
+    <button id="keywords-button" data-is-open="false" onclick="toggleKeywords()" class="menu-button  fixed-width theme-border-right theme-border-left">
+      <span class="visually-hidden">Show/Hide</span>
+      <span id="menu-btn-text">Tags</span>
+      <svg id="menu-btn-active" class="is-hidden">
+        <switch>
+        <use xlink:href="#close-icon"></use>
+        </switch>
+      </svg>
+    </button>
+    <h2 class="sub-heading">Issue {{ issue.series_issue_number }}</h2>
+    <button class="menu-button theme-border-left">
+      <svg>
+        <switch>
+          <use xlink:href="#download-icon"></use>
+        </switch>
+      </svg>
+      <span class="visually-hidden">Download Contents</span>
+    </button>
+    <button class="menu-button theme-border-left">
+      <svg>
+        <switch>
+          <use xlink:href="#share-icon"></use>
+        </switch>
+      </svg>
+      <span class="visually-hidden">Share Contents</span>
+    </button>
+    <section class="{{ featureTypeClass }}-section--keywords {{ featureTypeClass }}-section--overlay theme-border-bottom is-hidden">
+      <div class="keywords field is-grouped is-grouped-multiline">
+        {% assign essaySubjects = subjectsData | where: 'key', key | sort: 'term' %}
+
+        {% for subject in essaySubjects %}
+          <div class="control">
+            <div class="tags">
+              <a class="tag is-link" data-term-id="{{  subject.termId }}">{{ subject.term }}</a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+  <div class="{{ featureTypeClass }}-section--main-container ">
+    <div class="{{ featureTypeClass }}-section--toc">
+      <div aria-expanded="false" class="quire__secondary" id="content-menu" role="contentinfo"
+        data-outputs-exclude="epub,pdf">
+        <div class="content-list">
+          {% contentRenderFile "_layouts/progress-markers.11ty.js" %}
+        </div>
+      </div>
+    </div>
+    <div class="{{ featureTypeClass }}-section--main {{ animationClass }}">
+      {% if featureTypeClass == 'exhibition %}
+
+        {% contentRenderFile "_layouts/content-margin-notes.11ty.js" %}
+
+      {% else %}
+
+      <section class="theme-border-bottom">
+         <div class="columns gapless">
+          <div class="column is-three-fifths ml-3">
+            <div class="heading-section">
+              <a class="link-button" data-tooltip="Tooltip Text"><svg>
+                  <switch>
+                    <use xlink:href="#link-icon"></use>
+                  </switch>
+                </svg>
+                <span class="visually-hidden">{{ pageType }}</span>
+              </a>
+              <span class="page-type">{{ pageType }}</span>
+              <h1 id="{{ title | slugify }}"> {{title | markdownify}}<br>{{subtitle | markdownify }}</h1> <span class="contributor-by">{{ attribution_type | default: '' | capitalize }}</span> {% for contrib in pageContributors %}
+              {% assign contribData = contrib | getContributor %}
+              <span class="contributor-name">{{ contribData.full_name }}</span>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="column is-relative">
+            <div class="{{ featureTypeClass }}-section--main--image">
+              <img src="{{pageImageSrc}}" />
+              <button id="caption-button" class="caption-button" onclick="toggleCaptionDetails(this)">Caption</button>
+            </div>
+            <div id="caption-details" class="caption-details is-closed">
+               <figcaption>
+                <span>{{ bannerFigure.caption | markdownify }} </span>
+                <span>{{ bannerFigure.credit | markdownify }}</span>
+               </figcaption>
+               <button class="close-button" onclick="toggleCaptionDetails(this)">
+                    <svg>
+                    <switch>
+                        <use xlink:href="#close-icon"></use>
+                    </switch>
+                    </svg>
+                    <span class="visually-hidden">Hide Caption Section</span>
+                </button>
+            </div>
+          </div>
+
+        </div>
+      </section>
+      {% if abstract %}
+      {% abstract abstract=abstract %}
+      {% endif %}
+      <section class="section quire-page__content">
+        {% contentRenderFile "_layouts/content-margin-notes.11ty.js" %}
+
+        <div class="section-two-column">
+          <div class="first-column">
+            {% bibliography citations outputs page_pdf_output %}
+          </div>
+          <div class="second-column">
+          </div>
+        </div>
+      </section>
+      <button class="main-button back-to-top is-hidden" onclick="topFunction()" id="back-to-top" title="Go to top">Back to Top
+        <svg>
+          <switch>
+            <use xlink:href="#down-arrow-icon"></use>
+          </switch>
+        </svg>
+      </button>
+      {% endif %}
+    </div>
+  </div>
+</section>

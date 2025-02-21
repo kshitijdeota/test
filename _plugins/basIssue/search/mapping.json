@@ -1,0 +1,528 @@
+{
+    "properties": {
+        "abstract": {
+            "type": "text",
+            "fields": {
+                "english": {
+                    "type": "text",
+                    "analyzer": "english"
+                }
+            }
+        },
+        "acknowledgements": {
+            "type": "text"
+        },
+        "attribution_type": {
+            "type": "keyword"
+        },
+        "bas_type": {
+            "type": "keyword"
+        },
+        "class": {
+            "type": "keyword"
+        },
+        "content": {
+            "properties": {
+                "bibliography": {
+                    "properties": {
+                        "full": {
+                            "type": "text"
+                        },
+                        "id": {
+                            "type": "keyword"
+                        }
+                    },
+                    "type": "nested"
+                },
+                "contributors": {
+                    "properties": {
+                        "affiliation": {
+                            "type": "text"
+                        },
+                        "bio": {
+                            "type": "text"
+                        },
+                        "first_name": {
+                            "type": "text"
+                        },
+                        "full_name": {
+                            "type": "text"
+                        },
+                        "id": {
+                            "type": "keyword"
+                        },
+                        "last_name": {
+                            "type": "text"
+                        },
+                        "pic": {
+                            "type": "keyword"
+                        },
+                        "title": {
+                            "type": "text"
+                        },
+                        "url": {
+                            "type": "keyword"
+                        }
+                    },
+                    "type": "nested"
+                },
+                "endsmatter": {
+                    "properties": {
+                        "identifier": {
+                            "properties": {
+                                "doi": {
+                                    "type": "keyword"
+                                },
+                                "issn": {
+                                    "type": "keyword"
+                                }
+                            }
+                        },
+                        "licence": {
+                            "properties": {
+                                "href": {
+                                    "type": "keyword"
+                                },
+                                "isExternalLink": {
+                                    "type": "boolean"
+                                },
+                                "text": {
+                                    "type": "text"
+                                }
+                            },
+                            "type": "nested"
+                        },
+                        "pub_date": {
+                            "type": "date"
+                        },
+                        "review_status": {
+                            "type": "text"
+                        }
+                    }
+                },
+                "footnotes": {
+                    "properties": {
+                        "footnote": {
+                            "type": "text"
+                        },
+                        "footnote_id": {
+                            "type": "text"
+                        }
+                    },
+                    "type": "nested"
+                },
+                "illustrations": {
+                    "properties": {
+                        "alt": {
+                            "type": "text"
+                        },
+                        "caption": {
+                            "type": "text"
+                        },
+                        "credit": {
+                            "type": "text"
+                        },
+                        "id": {
+                            "type": "keyword"
+                        },
+                        "label": {
+                            "type": "text"
+                        },
+                        "layout": {
+                            "type": "text"
+                        },
+                        "media_id": {
+                            "type": "text"
+                        },
+                        "media_type": {
+                            "type": "keyword"
+                        },
+                        "path": {
+                            "type": "keyword"
+                        },
+                        "src": {
+                            "type": "keyword"
+                        }
+                    },
+                    "type": "nested"
+                },
+                "slides": {
+                    "properties": {
+                        "id": {
+                            "type": "keyword"
+                        },
+                        "object_list": {
+                            "properties": {
+                                "figure": {
+                                    "properties": {
+                                        "id": {
+                                            "type": "keyword"
+                                        }
+                                    }
+                                },
+                                "figures": {
+                                    "properties": {
+                                        "caption": {
+                                            "type": "text"
+                                        },
+                                        "credit": {
+                                            "type": "text"
+                                        },
+                                        "id": {
+                                            "type": "keyword"
+                                        },
+                                        "label": {
+                                            "type": "text"
+                                        },
+                                        "media_id": {
+                                            "type": "keyword"
+                                        },
+                                        "media_type": {
+                                            "type": "text"
+                                        },
+                                        "src": {
+                                            "type": "keyword"
+                                        }
+                                    },
+                                    "type": "nested"
+                                },
+                                "id": {
+                                    "type": "keyword"
+                                }
+                            },
+                            "type": "nested"
+                        },
+                        "order": {
+                            "type": "short"
+                        },
+                        "paragraphs": {
+                            "properties": {
+                                "paragraph": {
+                                    "type": "text"
+                                },
+                                "paragraph_id": {
+                                    "type": "text"
+                                }
+                            }
+                        },
+                        "sections": {
+                            "properties": {
+                                "section": {
+                                    "type": "text"
+                                },
+                                "section_id": {
+                                    "type": "text"
+                                }
+                            }
+                        }
+                    }
+                },
+                "text": {
+                    "properties": {
+                        "abstract": {
+                            "type": "text"
+                        },
+                        "acknowledgements": {
+                            "type": "text"
+                        },
+                        "paragraphs": {
+                            "properties": {
+                                "paragraph": {
+                                    "type": "text"
+                                },
+                                "paragraph_id": {
+                                    "type": "text"
+                                }
+                            },
+                            "type": "nested"
+                        },
+                        "sections": {
+                            "properties": {
+                                "section": {
+                                    "type": "text"
+                                },
+                                "section_id": {
+                                    "type": "text"
+                                }
+                            },
+                            "type": "nested"
+                        },
+                        "short_abstract": {
+                            "type": "text"
+                        }
+                    },
+                    "type": "nested"
+                }
+            }
+        },
+        "cover": {
+            "properties": {
+                "caption": {
+                    "type": "text"
+                },
+                "credit": {
+                    "type": "text"
+                },
+                "id": {
+                    "type": "keyword"
+                }
+            },
+            "type": "nested"
+        },
+        "identifier": {
+            "properties": {
+                "id": {
+                    "type": "keyword"
+                }
+            }
+        },
+        "issue": {
+            "properties": {
+                "acknowledgements": {
+                    "type": "text"
+                },
+                "class": {
+                    "type": "keyword"
+                },
+                "cover": {
+                    "properties": {
+                        "caption": {
+                            "type": "text"
+                        },
+                        "credit": {
+                            "type": "text"
+                        },
+                        "id": {
+                            "type": "keyword"
+                        }
+                    },
+                    "type": "nested"
+                },
+                "identifier": {
+                    "properties": {
+                        "id": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "layout": {
+                    "type": "keyword"
+                },
+                "order": {
+                    "type": "short"
+                },
+                "palette": {
+                    "properties": {
+                        "dark": {
+                            "type": "keyword"
+                        },
+                        "light": {
+                            "type": "keyword"
+                        },
+                        "mainTheme": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "presentation": {
+                    "type": "keyword"
+                },
+                "season": {
+                    "type": "text"
+                },
+                "series_issue_number": {
+                    "type": "short"
+                },
+                "subtitle": {
+                    "type": "text"
+                },
+                "title": {
+                    "type": "text"
+                }
+            }
+        },
+        "layout": {
+            "type": "keyword"
+        },
+        "order": {
+            "type": "short"
+        },
+        "pageContent": {
+            "type": "text"
+        },
+        "palette": {
+            "properties": {
+                "dark": {
+                    "type": "keyword"
+                },
+                "light": {
+                    "type": "keyword"
+                },
+                "mainTheme": {
+                    "type": "keyword"
+                }
+            }
+        },
+        "presentation": {
+            "type": "keyword"
+        },
+        "search": {
+            "properties": {
+                "BAStype": {
+                    "type": "keyword"
+                },
+                "contributors": {
+                    "properties": {
+                        "full_name": {
+                            "type": "keyword"
+                        },
+                        "id": {
+                            "type": "keyword"
+                        }
+                    },
+                    "type": "nested"
+                },
+                "palette": {
+                    "properties": {
+                        "dark": {
+                            "type": "keyword"
+                        },
+                        "light": {
+                            "type": "keyword"
+                        },
+                        "mainTheme": {
+                            "type": "keyword"
+                        }
+                    }
+                },
+                "pub_date": {
+                    "type": "date"
+                },
+                "subtitle": {
+                    "type": "text"
+                },
+                "tile": {
+                    "type": "keyword"
+                },
+                "tileCaption": {
+                    "type": "text"
+                },
+                "tileCredit": {
+                    "type": "text"
+                },
+                "title": {
+                    "type": "text"
+                }
+            }
+        },
+        "series_issue_number": {
+            "type": "short"
+        },
+        "source": {
+            "properties": {
+                "date": {
+                    "type": "date"
+                },
+                "filePathStem": {
+                    "type": "text"
+                },
+                "fileSlug": {
+                    "type": "text"
+                },
+                "inputPath": {
+                    "type": "text"
+                },
+                "lang": {
+                    "type": "text"
+                },
+                "outputFileExtension": {
+                    "type": "text"
+                },
+                "outputPath": {
+                    "type": "text"
+                },
+                "templateSyntax": {
+                    "type": "text"
+                },
+                "url": {
+                    "type": "text"
+                }
+            }
+        },
+        "subjects": {
+            "properties": {
+                "topics": { 
+                    "properties": {
+                        "_id": {"type": "keyword"},
+                        "heading": {"type": "keyword"},
+                        "subheading": {"type": "keyword"},
+                        "term": {"type": "keyword"},
+                        "term_hier_key": {"type": "keyword"}
+                    }
+                },
+                "period": { 
+                    "properties": {
+                        "_id": {"type": "keyword"},
+                        "heading": {"type": "keyword"},
+                        "subheading": {"type": "keyword"},
+                        "term": {"type": "keyword"},
+                        "term_hier_key": {"type": "keyword"}
+                    }
+                },
+                "mmt": { 
+                    "properties": {
+                        "_id": {"type": "keyword"},
+                        "heading": {"type": "keyword"},
+                        "subheading": {"type": "keyword"},
+                        "term": {"type": "keyword"},
+                        "term_hier_key": {"type": "keyword"}
+                    }
+                },
+                "sm": { 
+                    "properties": {
+                        "_id": {"type": "keyword"},
+                        "heading": {"type": "keyword"},
+                        "subheading": {"type": "keyword"},
+                        "term": {"type": "keyword"},
+                        "term_hier_key": {"type": "keyword"}
+                    }
+                },
+                "place": { 
+                    "properties": {
+                        "_id": {"type": "keyword"},
+                        "heading": {"type": "keyword"},
+                        "subheading": {"type": "keyword"},
+                        "term": {"type": "keyword"},
+                        "term_hier_key": {"type": "keyword"}
+                    }
+                }
+            }
+        },
+        "subtitle": {
+            "type": "text",
+            "fields": {
+                "english": {
+                    "type": "text",
+                    "analyzer": "english"
+                }
+            }
+        },
+        "title": {
+            "type": "text",
+            "fields": {
+                "english": {
+                    "type": "text",
+                    "analyzer": "english"
+                },
+                "sort": {
+                    "type": "icu_collation_keyword",
+                    "index": false,
+                    "language": "en"
+                }
+            }
+        },
+        "type": {
+            "type": "keyword"
+        }
+    }
+}

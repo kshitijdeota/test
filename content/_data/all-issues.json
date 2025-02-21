@@ -1,0 +1,2749 @@
+[
+  {
+    "_id": "https://bas-journal-framework.netlify.app/issues/03/",
+    "pallette": "blue",
+    "pub_date": "July 2016",
+    "series_issue_number": 3,
+    "subtitle": "British Sculpture Abroad, 1945 – 2000 ",
+    "title": "British Art Studies",
+    "articles": [
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/curtis-droth/",
+        "bas_type": "introduction",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/curtis-droth/",
+        "contributors": [
+          "Martina Droth",
+          "Penelope Curtis"
+        ],
+        "issue_pallette": "blue",
+        "order": 301,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "British Sculpture Abroad: An Introduction",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "British Sculpture Abroad: An Introduction",
+        "title_html": "British Sculpture Abroad: An Introduction",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/1945-1960/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/1945-1960/",
+        "contributors": [
+          "Henry Meyric Hughes"
+        ],
+        "issue_pallette": "blue",
+        "order": 302,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "The Promotion and Reception of British Sculpture Abroad, 1948--1960",
+        "subtitle_html": "Herbert Read, Henry Moore, Barbara Hepworth, and the “Young British Sculptors”",
+        "summary": "",
+        "summary_html": "",
+        "title": "The Promotion and Reception of British Sculpture Abroad, 1948--1960",
+        "title_html": "The Promotion and Reception of British Sculpture Abroad, 1948–1960",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/moore-belgrade/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/moore-belgrade/",
+        "contributors": [
+          "Želimir Koščević"
+        ],
+        "issue_pallette": "blue",
+        "order": 303,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Henry Moore's Exhibition in Yugoslavia, 1955",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Henry Moore's Exhibition in Yugoslavia, 1955",
+        "title_html": "Henry Moore’s Exhibition in Yugoslavia, 1955",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/sao-paolo-hepworth/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/sao-paolo-hepworth/",
+        "contributors": [
+          "Ana Gonçalves Magalhães"
+        ],
+        "issue_pallette": "blue",
+        "order": 304,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Barbara Hepworth in Brazil",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Barbara Hepworth in Brazil",
+        "title_html": "Barbara Hepworth in Brazil",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/chadwick-armitage-butler/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/chadwick-armitage-butler/",
+        "contributors": [
+          "Emanuela Pezzetta"
+        ],
+        "issue_pallette": "blue",
+        "order": 305,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "British Sculpture Exhibited at the Venice Biennale after the Second World War, and its Impact on the Work of Italian Sculptors",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "British Sculpture Exhibited at the Venice Biennale after the Second World War, and its Impact on the Work of Italian Sculptors",
+        "title_html": "British Sculpture Exhibited at the Venice Biennale after the Second World War, and its Impact on the Work of Italian Sculptors",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/kroller-mueller/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/kroller-mueller/",
+        "contributors": [
+          "Gerard Byrne"
+        ],
+        "issue_pallette": "blue",
+        "order": 306,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "1984 and Beyond (2005--07)",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "1984 and Beyond (2005--07)",
+        "title_html": "<em>1984 and Beyond</em> (2005–07)",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/1960s/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/1960s/",
+        "contributors": [
+          "Jon Wood"
+        ],
+        "issue_pallette": "blue",
+        "order": 307,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Introduction to British Sculpture Abroad in the 1960s",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Introduction to British Sculpture Abroad in the 1960s",
+        "title_html": "Introduction to British Sculpture Abroad in the 1960s",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/british-constructivism-1962/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/british-constructivism-1962/",
+        "contributors": [
+          "Sam Gathercole"
+        ],
+        "issue_pallette": "blue",
+        "order": 308,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "British Constructivist Art",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "British Constructivist Art",
+        "title_html": "British Constructivist Art",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/reg-butler-usa/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/reg-butler-usa/",
+        "contributors": [
+          "Arie Hartog"
+        ],
+        "issue_pallette": "blue",
+        "order": 309,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "\"Induced Tension\"",
+        "subtitle_html": "A Forgotten Chapter in the History of British Sculpture in the USA",
+        "summary": "",
+        "summary_html": "",
+        "title": "\"Induced Tension\"",
+        "title_html": "“Induced Tension”",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/laing-phillips/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/laing-phillips/",
+        "contributors": [
+          "John J. Curley"
+        ],
+        "issue_pallette": "blue",
+        "order": 310,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Hybrid Sculpture of the 1960s",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Hybrid Sculpture of the 1960s",
+        "title_html": "Hybrid Sculpture of the 1960s",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/caro-prairie/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/caro-prairie/",
+        "contributors": [
+          "Sarah Stanners"
+        ],
+        "issue_pallette": "blue",
+        "order": 311,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Sight Unseen",
+        "subtitle_html": "Anthony Caro’s <em>Prairie</em>, 1967",
+        "summary": "",
+        "summary_html": "",
+        "title": "Sight Unseen",
+        "title_html": "Sight Unseen",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/moore-toronto/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/moore-toronto/",
+        "contributors": [
+          "Simon Starling"
+        ],
+        "issue_pallette": "blue",
+        "order": 312,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "The Geography of Making or On Finding Moore Everywhere",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "The Geography of Making or On Finding Moore Everywhere",
+        "title_html": "The Geography of Making or On Finding Moore Everywhere",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/1970s/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/1970s/",
+        "contributors": [
+          "Elena Crippa"
+        ],
+        "issue_pallette": "blue",
+        "order": 313,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "1970s: Out of Sculpture",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "1970s: Out of Sculpture",
+        "title_html": "1970s: Out of Sculpture",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/boyle-1970/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/boyle-1970/",
+        "contributors": [
+          "Chris Townsend"
+        ],
+        "issue_pallette": "blue",
+        "order": 314,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Mark Boyle and Joan Hills at the Gemeentemuseum, The Hague",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Mark Boyle and Joan Hills at the Gemeentemuseum, The Hague",
+        "title_html": "Mark Boyle and Joan Hills at the Gemeentemuseum, The Hague",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/art-language-nyc/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/art-language-nyc/",
+        "contributors": [
+          "Jo Melvin"
+        ],
+        "issue_pallette": "blue",
+        "order": 315,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "The British Avant Garde",
+        "subtitle_html": "A Joint Venture Between the New York Cultural Center and <em>Studio International</em> Magazine",
+        "summary": "",
+        "summary_html": "",
+        "title": "The British Avant Garde",
+        "title_html": "The British Avant Garde",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/arte-inglese-oggi/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/arte-inglese-oggi/",
+        "contributors": [
+          "Elena Crippa"
+        ],
+        "issue_pallette": "blue",
+        "order": 316,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Arte Inglese Oggi, Milan, 1976: Between Formalism and Conceptual Art ",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Arte Inglese Oggi, Milan, 1976: Between Formalism and Conceptual Art ",
+        "title_html": "<em>Arte Inglese Oggi,</em> Milan, 1976: Between Formalism and Conceptual Art ",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/art-anglais-1979/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/art-anglais-1979/",
+        "contributors": [
+          "Lucy Reynolds"
+        ],
+        "issue_pallette": "blue",
+        "order": 317,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Un Certain Art Anglais, 1979",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Un Certain Art Anglais, 1979",
+        "title_html": "<em>Un Certain Art Anglais</em>, 1979",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/moore-usa/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/moore-usa/",
+        "contributors": [
+          "Alex Potts"
+        ],
+        "issue_pallette": "blue",
+        "order": 318,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Henry Moore's Public Sculpture in the US",
+        "subtitle_html": "The Collaborations with I. M. Pei",
+        "summary": "",
+        "summary_html": "",
+        "title": "Henry Moore's Public Sculpture in the US",
+        "title_html": "Henry Moore’s Public Sculpture in the US",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/1980s/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/1980s/",
+        "contributors": [
+          "Greg Hilty"
+        ],
+        "issue_pallette": "blue",
+        "order": 319,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Renewing the New",
+        "subtitle_html": "British Sculpture in the 1980s",
+        "summary": "",
+        "summary_html": "",
+        "title": "Renewing the New",
+        "title_html": "Renewing the New",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/new-south-wales/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/new-south-wales/",
+        "contributors": [
+          "Anthony Bond"
+        ],
+        "issue_pallette": "blue",
+        "order": 320,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "The British Show in Australia, 1985",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "The British Show in Australia, 1985",
+        "title_html": "<em>The British Show</em> in Australia, 1985",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/quiet-revolution/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/quiet-revolution/",
+        "contributors": [
+          "Mary Jane Jacob"
+        ],
+        "issue_pallette": "blue",
+        "order": 321,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "A Quiet Revolution",
+        "subtitle_html": "<em>British Sculpture Since 1965</em>",
+        "summary": "",
+        "summary_html": "",
+        "title": "A Quiet Revolution",
+        "title_html": "<em>A Quiet Revolution</em>",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/deacon-krefeld-1991/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/deacon-krefeld-1991/",
+        "contributors": [
+          "Julian Heynen"
+        ],
+        "issue_pallette": "blue",
+        "order": 322,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "full'n'empty -- subjectobject -- uhmm, Richard Deacon, Haus Lange and Haus Esters, Krefeld 1991",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "full'n'empty -- subjectobject -- uhmm, Richard Deacon, Haus Lange and Haus Esters, Krefeld 1991",
+        "title_html": "<em>full’n’empty – subjectobject – uhmm,</em> Richard Deacon, Haus Lange and Haus Esters, Krefeld 1991",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/new-sculpture/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/new-sculpture/",
+        "contributors": [
+          "Nick Baker"
+        ],
+        "issue_pallette": "blue",
+        "order": 323,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Expanding the Field",
+        "subtitle_html": "How the “New Sculpture” put British Art on the Map in the 1980s",
+        "summary": "",
+        "summary_html": "",
+        "title": "Expanding the Field",
+        "title_html": "Expanding the Field",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/1990s/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/1990s/",
+        "contributors": [
+          "Courtney J. Martin"
+        ],
+        "issue_pallette": "blue",
+        "order": 324,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Britishness, Identity, and the Three-Dimensional",
+        "subtitle_html": "British Sculpture Abroad in the 1990s",
+        "summary": "",
+        "summary_html": "",
+        "title": "Britishness, Identity, and the Three-Dimensional",
+        "title_html": "Britishness, Identity, and the Three-Dimensional",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/sensational-cities/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/sensational-cities/",
+        "contributors": [
+          "John J. Curley"
+        ],
+        "issue_pallette": "blue",
+        "order": 325,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Sensational Cities",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Sensational Cities",
+        "title_html": "Sensational Cities",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/brilliant/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/brilliant/",
+        "contributors": [
+          "Richard Flood"
+        ],
+        "issue_pallette": "blue",
+        "order": 326,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Brilliant! New Art from London, Walker Art Center, 1995--96",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Brilliant! New Art from London, Walker Art Center, 1995--96",
+        "title_html": "<em>Brilliant! New Art from London,</em> Walker Art Center, 1995–96",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/real-life/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/real-life/",
+        "contributors": [
+          "Kajiya Kenji"
+        ],
+        "issue_pallette": "blue",
+        "order": 327,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Real/Life",
+        "subtitle_html": "New British Art* and the Reception of Contemporary British Art in Japan",
+        "summary": "",
+        "summary_html": "",
+        "title": "Real/Life",
+        "title_html": "<em>Real/Life</em>",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/kapoor-venice-1990/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/kapoor-venice-1990/",
+        "contributors": [
+          "Rakhee Balaram"
+        ],
+        "issue_pallette": "blue",
+        "order": 328,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "With the Void, Full Powers",
+        "subtitle_html": "Anish Kapoor and the Venice Biennale of 1990",
+        "summary": "",
+        "summary_html": "",
+        "title": "With the Void, Full Powers",
+        "title_html": "With the Void, Full Powers",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/03/hatoum-istanbul-1995/",
+        "bas_type": "article",
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/03/hatoum-istanbul-1995/",
+        "contributors": [
+          "Jo Applin"
+        ],
+        "issue_pallette": "blue",
+        "order": 329,
+        "pub_date": "2016-07-18T00:00:00.000Z",
+        "pub_date_year": 2016,
+        "series_issue_number": 3,
+        "subjects": {},
+        "subtitle": "Disorienting the Art World",
+        "subtitle_html": "Mona Hatoum in Istanbul",
+        "summary": "",
+        "summary_html": "",
+        "title": "Disorienting the Art World",
+        "title_html": "Disorienting the Art World",
+        "type": "article"
+      }
+    ]
+  },
+  {
+    "_id": "https://bas-journal-framework.netlify.app/issues/18/",
+    "pallette": "apricot",
+    "pub_date": "November 2020",
+    "series_issue_number": 21,
+    "subtitle": "Issue 18 – November 2020",
+    "title": "British Art Studies",
+    "articles": [
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/women-in-fur/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/women-in-fur/",
+        "contributors": [
+          "Sarah Parsons"
+        ],
+        "issue_pallette": "apricot",
+        "order": 1,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Albums",
+            "Artist studios",
+            "British Empire",
+            "Archives",
+            "Trade",
+            "Luxury",
+            "Leisure"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "sm": [
+            "Victorian"
+          ],
+          "mmt": [
+            "Photography"
+          ],
+          "place": [
+            "Scotland"
+          ]
+        },
+        "subtitle": "Women in Fur",
+        "subtitle_html": "Empire, Power, and Play in a Victorian Photography Album",
+        "summary": "",
+        "summary_html": "",
+        "title": "Women in Fur",
+        "title_html": "Women in Fur",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/the-lost-cause-of-british-constructionism/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/the-lost-cause-of-british-constructionism/",
+        "contributors": [
+          "Sam Gathercole"
+        ],
+        "issue_pallette": "apricot",
+        "order": 2,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Children",
+            "Activism and Protest",
+            "Socially engaged art"
+          ],
+          "period": [
+            "1900–2000"
+          ],
+          "sm": [
+            "Constructionism"
+          ],
+          "mmt": [
+            "Design",
+            "Interior decoration",
+            "Sculpture",
+            "Public art",
+            "Architecture",
+            "Publications and print ephemera",
+            "Photography",
+            "Performance",
+            "Participatory art",
+            "Mobiles"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland"
+          ]
+        },
+        "subtitle": "The Lost Cause of British Constructionism",
+        "subtitle_html": "A Two-Act Tragedy",
+        "summary": "",
+        "summary_html": "",
+        "title": "The Lost Cause of British Constructionism",
+        "title_html": "The Lost Cause of British Constructionism",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/aubrey-bearsley-russian-world-of-art/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/aubrey-bearsley-russian-world-of-art/",
+        "contributors": [
+          "Sasha Dovzhyk"
+        ],
+        "issue_pallette": "apricot",
+        "order": 3,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Art criticism",
+            "Reception",
+            "Reproduction",
+            "Eroticism",
+            "Networks"
+          ],
+          "period": [
+            "1800–1900",
+            "1900–2000"
+          ],
+          "sm": [
+            "Victorian"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Illustration"
+          ],
+          "place": [
+            "Russian Federation",
+            "St Petersburg"
+          ]
+        },
+        "subtitle": "Aubrey Beardsley in the Russian \"World of Art\"",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Aubrey Beardsley in the Russian \"World of Art\"",
+        "title_html": "Aubrey Beardsley in the Russian “World of Art”",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/making-a-case/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/making-a-case/",
+        "contributors": [
+          "Steve Edwards"
+        ],
+        "issue_pallette": "apricot",
+        "order": 4,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Law",
+            "Material culture",
+            "Capitalism",
+            "Class"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "sm": [
+            "Victorian"
+          ],
+          "mmt": [
+            "Photography",
+            "Design"
+          ]
+        },
+        "subtitle": "Making a Case",
+        "subtitle_html": "Daguerreotypes",
+        "summary": "",
+        "summary_html": "",
+        "title": "Making a Case",
+        "title_html": "Making a Case",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/arts-environmental-justice-ecological-crisis/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/arts-environmental-justice-ecological-crisis/",
+        "contributors": [
+          "Sria Chatterjee"
+        ],
+        "issue_pallette": "apricot",
+        "order": 5,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Activism and Protest",
+            "Institutional critique",
+            "Mapping",
+            "Museums and galleries",
+            "Climate and Ecological Crisis",
+            "Energy",
+            "Capitalism",
+            "Indigenous peoples and cultures",
+            "Science and technology",
+            "Nature",
+            "Weather",
+            "Geology",
+            "Animals",
+            "Race",
+            "Racial justice",
+            "Immigration and Diaspora",
+            "Water",
+            "Resource extraction"
+          ],
+          "period": [
+            "1800–1900",
+            "1900–2000",
+            "2000–Present",
+            "1700–1800"
+          ],
+          "sm": [
+            "Afrofuturism",
+            "Land art",
+            "Victorian"
+          ],
+          "mmt": [
+            "Performance",
+            "Public art",
+            "Installation art",
+            "Paintings",
+            "Digital art"
+          ],
+          "place": [
+            "Trinidad and Tobago",
+            "Canada",
+            "Australia",
+            "The Caribbean",
+            "Guyana"
+          ]
+        },
+        "subtitle": "The Arts, Environmental Justice, and the Ecological Crisis",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "The Arts, Environmental Justice, and the Ecological Crisis",
+        "title_html": "The Arts, Environmental Justice, and the Ecological Crisis",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/climate-and-culture-beyond-borders/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/climate-and-culture-beyond-borders/",
+        "contributors": [
+          "Worm&#58; art &#43;\t ecology"
+        ],
+        "issue_pallette": "apricot",
+        "order": 6,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Activism and Protest",
+            "Curating",
+            "Climate and Ecological Crisis",
+            "Institutional critique",
+            "Socially engaged art",
+            "Water"
+          ],
+          "period": [
+            "2000–Present"
+          ],
+          "mmt": [
+            "Wood",
+            "Photography",
+            "Film",
+            "Digital art",
+            "Sculpture",
+            "Metalwork"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland"
+          ]
+        },
+        "subtitle": "Climate and Culture Beyond Borders",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Climate and Culture Beyond Borders",
+        "title_html": "Climate and Culture Beyond Borders",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/moss-rain-paradox/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/moss-rain-paradox/",
+        "contributors": [
+          "Angela Chan"
+        ],
+        "issue_pallette": "apricot",
+        "order": 7,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Climate and Ecological Crisis",
+            "Institutional critique",
+            "Water",
+            "Socially engaged art"
+          ],
+          "period": [
+            "2000–Present"
+          ],
+          "mmt": [
+            "Digital art"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland"
+          ]
+        },
+        "subtitle": "Moss Rain Paradox",
+        "subtitle_html": "Refocusing Climate Framings",
+        "summary": "",
+        "summary_html": "",
+        "title": "Moss Rain Paradox",
+        "title_html": "Moss Rain Paradox",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/beyond-interspecies-objectification/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/beyond-interspecies-objectification/",
+        "contributors": [
+          "Sonia E. Barrett"
+        ],
+        "issue_pallette": "apricot",
+        "order": 8,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Climate and Ecological Crisis",
+            "Institutional critique",
+            "Water",
+            "Socially engaged art"
+          ],
+          "period": [
+            "2000–Present"
+          ],
+          "mmt": [
+            "Digital art"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland"
+          ]
+        },
+        "subtitle": "Beyond Interspecies Objectification",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Beyond Interspecies Objectification",
+        "title_html": "Beyond Interspecies Objectification",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/indigenous-wisdom-amidst-eviction/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/indigenous-wisdom-amidst-eviction/",
+        "contributors": [
+          "Michael Leung"
+        ],
+        "issue_pallette": "apricot",
+        "order": 9,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Activism and Protest",
+            "Gender",
+            "Indigenous peoples and cultures",
+            "Climate and Ecological Crisis",
+            "Socially engaged art",
+            "Public space"
+          ],
+          "period": [
+            "2000–Present"
+          ],
+          "mmt": [
+            "Maps",
+            "Design",
+            "Digital art"
+          ],
+          "place": [
+            "Hong Kong"
+          ]
+        },
+        "subtitle": "Wang Chau Village",
+        "subtitle_html": "(Non-)Indigenous Wisdom, Amidst Eviction",
+        "summary": "",
+        "summary_html": "",
+        "title": "Wang Chau Village",
+        "title_html": "Wang Chau Village",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/diasporas-that-fight/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/diasporas-that-fight/",
+        "contributors": [
+          "Angela Camacho (aka Angela Camacho)"
+        ],
+        "issue_pallette": "apricot",
+        "order": 10,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Indigenous peoples and cultures",
+            "Gender",
+            "Capitalism",
+            "Immigration and Diaspora",
+            "Activism and Protest",
+            "Climate and Ecological Crisis",
+            "Socially engaged art"
+          ],
+          "period": [
+            "2000–Present"
+          ],
+          "mmt": [
+            "Digital art"
+          ]
+        },
+        "subtitle": "DIÁSPORAS QUE LUCHAN",
+        "subtitle_html": "(Diasporas that Fight)",
+        "summary": "",
+        "summary_html": "",
+        "title": "DIÁSPORAS QUE LUCHAN",
+        "title_html": "DIÁSPORAS QUE LUCHAN",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/ecological-imperative/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/ecological-imperative/",
+        "contributors": [
+          "INTERPRT"
+        ],
+        "issue_pallette": "apricot",
+        "order": 11,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "law",
+            "Climate and Ecological Crisis",
+            "Journalism",
+            "Capitalism",
+            "Nature",
+            "Conflict and war",
+            "Mapping"
+          ],
+          "period": [
+            "2000–Present",
+            "1900–2000"
+          ],
+          "mmt": [
+            "Film",
+            "Research-based practices"
+          ]
+        },
+        "subtitle": "The Ecological Imperative",
+        "subtitle_html": "Stopping Ecocide",
+        "summary": "",
+        "summary_html": "",
+        "title": "The Ecological Imperative",
+        "title_html": "The Ecological Imperative",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/bibliography/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/bibliography/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 500,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "Bibliography",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Bibliography",
+        "title_html": "Bibliography",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/18/contributors/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/18/contributors/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 501,
+        "pub_date": "2020-11-30T00:00:00.000Z",
+        "pub_date_year": 2020,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "Contributors",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Contributors",
+        "title_html": "Contributors",
+        "type": "article"
+      }
+    ]
+  },
+  {
+    "_id": "https://bas-journal-framework.netlify.app/issues/20/",
+    "pallette": "apricot",
+    "pub_date": "July 2021",
+    "series_issue_number": 21,
+    "subtitle": "Issue 20 – July 2021",
+    "title": "British Art Studies",
+    "articles": [
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/british-art-after-brexit/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/british-art-after-brexit/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 201,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Politics"
+          ],
+          "period": [
+            "2000–Present"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland"
+          ],
+          "mmt": [
+            "Performance"
+          ]
+        },
+        "subtitle": "British Art after Brexit",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "British Art after Brexit",
+        "title_html": "British Art after Brexit",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/slade-contrapuntal-histories/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/slade-contrapuntal-histories/",
+        "contributors": [
+          "Liz Bruchet",
+          null
+        ],
+        "issue_pallette": "apricot",
+        "order": 202,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "British Empire",
+            "Archives",
+            "Albums",
+            "Decolonial Studies",
+            "Art schools",
+            "Immigration and Diaspora",
+            "Decolonisation",
+            "Networks",
+            "Art education",
+            "Historiography",
+            "Digital art history"
+          ],
+          "period": [
+            "1900–2000"
+          ],
+          "place": [
+            "England",
+            "Pakistan",
+            "Bangladesh",
+            "England",
+            "Pakistan",
+            "Bangladesh",
+            "Hong Kong",
+            "England",
+            "Pakistan",
+            "Bangladesh",
+            "England",
+            "Pakistan",
+            "Bangladesh",
+            "Hong Kong",
+            "Taiwan",
+            "London",
+            "Lahore",
+            "Dhaka"
+          ]
+        },
+        "subtitle": "Slade, London, Asia",
+        "subtitle_html": "Contrapuntal Histories between Imperialism and Decolonization 1945–1989 (Part 1)",
+        "summary": "",
+        "summary_html": "",
+        "title": "Slade, London, Asia",
+        "title_html": "Slade, London, Asia",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/",
+        "contributors": [
+          null,
+          "Liz Bruchet"
+        ],
+        "issue_pallette": "apricot",
+        "order": 203,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "Slade, London, Asia",
+        "subtitle_html": "Animating the Archive (Part 1)",
+        "summary": "",
+        "summary_html": "",
+        "title": "Slade, London, Asia",
+        "title_html": "Slade, London, Asia",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/gustav-metzgers-formative-years-in-kings-lynn/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/gustav-metzgers-formative-years-in-kings-lynn/",
+        "contributors": [
+          "Jonathan P. Watts"
+        ],
+        "issue_pallette": "apricot",
+        "order": 204,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Exhibition histories",
+            "Networks",
+            "Activism / “Protest and civil unrest”",
+            "Religious art and architecture",
+            "Artist's houses",
+            "Display"
+          ],
+          "period": [
+            "2000–Present",
+            "1900–2000"
+          ],
+          "place": [
+            "England",
+            "United Kingdom of Great Britain and Northern Ireland"
+          ],
+          "mmt": [
+            "Performance",
+            "Found objects",
+            "Publications and print ephemera",
+            "Glass"
+          ]
+        },
+        "subtitle": "\"Everything I Learnt About Activism I Learnt in King's Lynn\"",
+        "subtitle_html": "Gustav Metzger’s Formative Years in King’s Lynn",
+        "summary": "",
+        "summary_html": "",
+        "title": "\"Everything I Learnt About Activism I Learnt in King's Lynn\"",
+        "title_html": "“Everything I Learnt About Activism I Learnt in King’s Lynn”",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/zarina-bhimji/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/zarina-bhimji/",
+        "contributors": [
+          "Allison K. Young"
+        ],
+        "issue_pallette": "apricot",
+        "order": 205,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Immigration and Diaspora",
+            "The body",
+            "Networks",
+            "Art schools",
+            "Exhibition histories",
+            "Race",
+            "Feminism",
+            "Gender"
+          ],
+          "period": [
+            "1900–2000"
+          ],
+          "place": [
+            "England",
+            "United Kingdom of Great Britain and Northern Ireland",
+            "London"
+          ],
+          "mmt": [
+            "Photography",
+            "Installation art"
+          ],
+          "sm": [
+            "Surrealism"
+          ]
+        },
+        "subtitle": "Lady of Silences",
+        "subtitle_html": "The Enigmatic Photo-Text Work of Zarina Bhimji",
+        "summary": "",
+        "summary_html": "",
+        "title": "Lady of Silences",
+        "title_html": "Lady of Silences",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/one-object-introduction/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/one-object-introduction/",
+        "contributors": [
+          null
+        ],
+        "issue_pallette": "apricot",
+        "order": 206,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Medicine and healthcare",
+            "Race",
+            "Art education",
+            "Portraiture",
+            "The body"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "place": [
+            "England",
+            "United Kingdom of Great Britain and Northern Ireland",
+            "London"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints"
+          ],
+          "sm": [
+            "Victorian"
+          ]
+        },
+        "subtitle": "Victorian Anatomical Atlases and Their Many Lives (and Deaths)",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Victorian Anatomical Atlases and Their Many Lives (and Deaths)",
+        "title_html": "Victorian Anatomical Atlases and Their Many Lives (and Deaths)",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/wellcome-collection/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/wellcome-collection/",
+        "contributors": [
+          "Jonathan Law",
+          "Ludmilla Jordanova",
+          "William Schupbach"
+        ],
+        "issue_pallette": "apricot",
+        "order": 207,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Archives",
+            "Reception",
+            "Medicine and healthcare",
+            "Science and technology",
+            "Aesthetics",
+            "The body"
+          ],
+          "period": [
+            "1800–1900",
+            "1700–1800"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland",
+            "London"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints"
+          ],
+          "sm": [
+            "Victorian"
+          ]
+        },
+        "subtitle": "Anatomy in Context",
+        "subtitle_html": "Conversations in the Wellcome Collection, London",
+        "summary": "",
+        "summary_html": "",
+        "title": "Anatomy in Context",
+        "title_html": "Anatomy in Context",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/bell-brothers/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/bell-brothers/",
+        "contributors": [
+          "Anthea Callen"
+        ],
+        "issue_pallette": "apricot",
+        "order": 208,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "History painting",
+            "Medicine and healthcare",
+            "Science and technology",
+            "The body",
+            "Erotic arty"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland",
+            "Scotland",
+            "France",
+            "United States of America",
+            "London",
+            "Paris"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints",
+            "Drawing"
+          ],
+          "sm": [
+            "Victorian",
+            "Romanticism"
+          ]
+        },
+        "subtitle": "Bloodlines",
+        "subtitle_html": "Circulating the Male Body Across Borders in Art and Anatomy 1780–1860",
+        "summary": "",
+        "summary_html": "",
+        "title": "Bloodlines",
+        "title_html": "Bloodlines",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/maclise-black-apollo/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/maclise-black-apollo/",
+        "contributors": [
+          null
+        ],
+        "issue_pallette": "apricot",
+        "order": 209,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Medicine and healthcare",
+            "Race",
+            "Aesthetics",
+            "Reception",
+            "The body"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "place": [
+            "England",
+            "United Kingdom of Great Britain and Northern Ireland",
+            "London"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints",
+            "Drawing",
+            "Sculpture"
+          ],
+          "sm": [
+            "Victorian",
+            "Romanticism",
+            "Classical antiquity",
+            "Neoclassicism"
+          ]
+        },
+        "subtitle": "Black Apollo",
+        "subtitle_html": "Aesthetics, Dissection, and Race in Joseph Maclise’s <em>Surgical Anatomy</em>",
+        "summary": "",
+        "summary_html": "",
+        "title": "Black Apollo",
+        "title_html": "Black Apollo",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/maclises-queer-anatomy/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/maclises-queer-anatomy/",
+        "contributors": [
+          "Michael Sappol"
+        ],
+        "issue_pallette": "apricot",
+        "order": 210,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Archives",
+            "Reception",
+            "Medicine and healthcare",
+            "Aesthetics",
+            "The body",
+            "Queer cultures",
+            "Erotic art",
+            "Gender"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland",
+            "London"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints"
+          ],
+          "sm": [
+            "Victorian",
+            "Neoclassicism"
+          ]
+        },
+        "subtitle": "Mr Joseph Maclise and the Epistemology of the Anatomical Closet",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Mr Joseph Maclise and the Epistemology of the Anatomical Closet",
+        "title_html": "Mr Joseph Maclise and the Epistemology of the Anatomical Closet",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/publishing-on-gower-street/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/publishing-on-gower-street/",
+        "contributors": [
+          "William Schupbach"
+        ],
+        "issue_pallette": "apricot",
+        "order": 211,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Artistic collaboration",
+            "Networks",
+            "Art education",
+            "Reproduction",
+            "Advertising and Marketing",
+            "Medicine and healthcare"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland",
+            "United States of America",
+            "London"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints",
+            "Drawing"
+          ],
+          "sm": [
+            "Victorian"
+          ]
+        },
+        "subtitle": "Joseph Maclise, Taylor & Walton, and Publishing on Gower Street in the 1840s",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Joseph Maclise, Taylor & Walton, and Publishing on Gower Street in the 1840s",
+        "title_html": "Joseph Maclise, Taylor &amp; Walton, and Publishing on Gower Street in the 1840s",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/maclise-in-the-united-states/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/maclise-in-the-united-states/",
+        "contributors": [
+          "Naomi Slipp"
+        ],
+        "issue_pallette": "apricot",
+        "order": 213,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {
+          "topics": [
+            "Art education",
+            "Networks",
+            "Reproduction",
+            "Medicine and healthcare",
+            "The body"
+          ],
+          "period": [
+            "1800–1900"
+          ],
+          "place": [
+            "United Kingdom of Great Britain and Northern Ireland",
+            "United States of America"
+          ],
+          "mmt": [
+            "Publications and print ephemera",
+            "Prints",
+            "Drawing"
+          ],
+          "sm": [
+            "Victorian"
+          ]
+        },
+        "subtitle": "\"It Should Be on Every Surgeon's Table\"",
+        "subtitle_html": "The Reception and Adoption of Joseph Maclise’s <em>Surgical Anatomy</em> (1851) in the United States",
+        "summary": "",
+        "summary_html": "",
+        "title": "\"It Should Be on Every Surgeon's Table\"",
+        "title_html": "“It Should Be on Every Surgeon’s Table”",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/bibliography/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/bibliography/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 500,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "Bibliography",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Bibliography",
+        "title_html": "Bibliography",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/contributors/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/contributors/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 501,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "Contributors",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Contributors",
+        "title_html": "Contributors",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide01/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide01/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2031,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "Introduction",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "Introduction",
+        "title_html": "Introduction",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide02/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide02/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2032,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "I. Institutional Pathways and Documentary Trails",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "I. Institutional Pathways and Documentary Trails",
+        "title_html": "I. Institutional Pathways and Documentary Trails",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide03/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide03/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2033,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide04/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide04/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2034,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide05/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide05/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2035,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide06/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide06/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2036,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide07/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide07/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2037,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide08/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide08/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2038,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide09/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide09/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 2039,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide10/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide10/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20310,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide11/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide11/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20311,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "II. Imagining Postcolonial States",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "II. Imagining Postcolonial States",
+        "title_html": "II. Imagining Postcolonial States",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide12/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide12/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20312,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide13/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide13/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20313,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide14/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide14/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20314,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide15/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide15/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20315,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide16/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide16/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20316,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide17/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide17/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20317,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide18/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide18/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20318,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide19/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide19/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20319,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide20/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide20/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20320,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide21/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide21/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20321,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide22/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide22/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20322,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide23/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide23/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20323,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide24/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide24/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20324,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide25/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide25/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20325,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "III. Contrapuntal World-Making",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "III. Contrapuntal World-Making",
+        "title_html": "III. Contrapuntal World-Making",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide26/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide26/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20326,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide27/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide27/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20327,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide28/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide28/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20328,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide29/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide29/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20329,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide30/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide30/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20330,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide31/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide31/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20331,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide32/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide32/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20332,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide33/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide33/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20333,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "IV. Contrapuntal Pedagogies",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "IV. Contrapuntal Pedagogies",
+        "title_html": "IV. Contrapuntal Pedagogies",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide34/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide34/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20334,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide35/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide35/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20335,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide36/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide36/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20336,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide37/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide37/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20337,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide38/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide38/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20338,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide39/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide39/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20339,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide40/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide40/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20340,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide41/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide41/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20341,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide42/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide42/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20342,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide43/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide43/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20343,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "V. Schema and Correction: Repositioning Art Histories",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "V. Schema and Correction: Repositioning Art Histories",
+        "title_html": "V. Schema and Correction: Repositioning Art Histories",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide44/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide44/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20344,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide45/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide45/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20345,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide46/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide46/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20346,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide47/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide47/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20347,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide48/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide48/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20348,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide49/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide49/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20349,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide50/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide50/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20350,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide51/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide51/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20351,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide52/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide52/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20352,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide53/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide53/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20353,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      },
+      {
+        "_id": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide54/",
+        "bas_type": null,
+        "canonical_url": "https://bas-journal-framework.netlify.app/issues/20/london-asia-and-the-slade-archives/london-asia-and-the-slade-archives-slide54/",
+        "contributors": [],
+        "issue_pallette": "apricot",
+        "order": 20354,
+        "pub_date": "2021-07-18T00:00:00.000Z",
+        "pub_date_year": 2021,
+        "series_issue_number": 21,
+        "subjects": {},
+        "subtitle": "",
+        "subtitle_html": "",
+        "summary": "",
+        "summary_html": "",
+        "title": "",
+        "title_html": "",
+        "type": "article"
+      }
+    ]
+  }
+]

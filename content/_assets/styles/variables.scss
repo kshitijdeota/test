@@ -1,0 +1,469 @@
+// =============================================================================
+// Variables.scss
+// -----------------------------------------------------------------------------
+// Change values here to make changes to the type, color, cover and layout of
+// your publication. Variable names are always preceeded by a $ (dollar sign).
+// To avoid errors, variables names should not be changed or deleted, and be
+// sure to leave the colons (:) and semi-colons (;) in place.
+
+@import "bulma/sass/utilities/initial-variables";
+
+$navbar-breakpoint: $tablet !default;
+
+$accent-color: null;
+$content-background-color: null; // main text area background color
+$secondary-background-color: null; // only for modern theme
+
+// Declare the theme: modern/classic
+$theme: modern;
+
+// Declare the navbar color style: normal/accent
+$navbar: normal;
+
+
+
+// Pre-defined fonts
+// -----------------------------------------------------------------------------
+// This theme includes three embedded, open license fonts, and also uses
+// the widely available Times (files of which are not otherwise included here).
+
+
+$arial-sans: Arial, system-ui, sans-serif;
+$georgia: "Georgia", system-ui, serif;
+$times-serif: Times, "Times New Roman", serif;
+
+
+// Page typography
+// -----------------------------------------------------------------------------
+$quire-base-font-size: 16px;
+$quire-page-paragraph-style: line-space; // or use indent
+
+// Cover typography
+// -----------------------------------------------------------------------------
+$quire-cover-text-color: $white;
+$quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
+
+// Menu
+// -----------------------------------------------------------------------------
+$quire-menu-width: 352px;
+
+$quire-menu-color: $off-black;
+$quire-menu-text-color: $white;
+
+// Image viewer (pop-up figure viewer & entry page viewer)
+// -----------------------------------------------------------------------------
+$quire-entry-header-height: 6rem;
+
+$quire-entry-image-color: $black;
+$quire-entry-image-icons-color: $white;
+
+// Active link and table-row color
+// -----------------------------------------------------------------------------
+$quire-hover-color: $light-yellow;
+
+// Print/PDF stylesheet
+// -----------------------------------------------------------------------------
+$print-width: 8.5in;
+$print-height: 11in;
+$print-bleed: .125in;
+
+$print-bottom-margin: 0.875in;
+$print-top-margin: 0.75in;
+$print-outer-margin: 0.75in;
+$print-inner-margin: 1in;
+
+$print-base-font-size: 8.5pt;
+$print-text-color: $black;
+
+$print-splash-color: $off-white;
+
+$print-entry-image-color: $black; // or can use $rich-black with PrinceXML
+$print-entry-caption-color: $white;
+$print-entry-image-display: all; // first | all
+
+// Themes
+// -----------------------------------------------------------------------------
+// Declare theme variables
+$quire-primary-font: null; // body and menu text
+$quire-headings-font: $times-serif !default;
+$quire-footnotes-font: null; // footnotes and page backmatter
+$quire-navigation-font: null; // navbar and next/prev buttons
+
+@if $theme ==classic {
+  // Classic Theme
+  $quire-primary-font: $times-serif !default;
+  $quire-headings-font: $times-serif !default;
+  $quire-footnotes-font: $arial-sans !default;
+  $quire-navigation-font: $arial-sans !default;
+  $accent-color: $blue !default;
+  $content-background-color: $white !default;
+  $secondary-background-color: $content-background-color;
+}
+
+@else {
+  // Modern Theme (default)
+  $quire-primary-font: $arial-sans !default;
+  $quire-headings-font: $times-serif !default;
+  $quire-footnotes-font: $times-serif !default;
+  $quire-navigation-font: $arial-sans !default;
+  $accent-color: $red !default;
+  $content-background-color: $white !default;
+  $secondary-background-color: $off-white !default;
+}
+
+//Body
+// -----------------------------------------------------------------------------
+$family-primary: $arial-sans;
+$body-background-color: #fcfcfc;
+
+// Navbar
+// -----------------------------------------------------------------------------
+$navbar-height: 2.5rem;
+$quire-progress-bar-height: 2px;
+
+// Card
+// -----------------------------------------------------------------------------
+$card-radius: 0 !default;
+$card-shadow: none !default;
+$card-background-color: var(--body-bg-color);
+$card-border-color: var(--theme-border-color);
+$card-color: var(--theme-text-color);
+$card-content-padding: .5rem;
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --body-border-color: #464646;
+    --body-bg-color: #fcfcfc;
+    --body-color: #464646;
+    --body-link-hover-color: #000000;
+    --body-link-bg-hover-color: #ffffff;
+    --button-bg-color: #a8a8a8;
+    --tag-bg-color: #c2c2c2;
+    --button-color: #000000;
+    --navbar-border-color: #464646;
+    --navbar-bg-color: #fcfcfc;
+    --navbar-color: #464646;
+    --navbar-item-color: #464646;
+    --navbar-item-hover-color: #000000;
+    --navbar-item-hover-bg-color: #a8a8a8;
+    --muted-color: #464646;
+  }
+
+  :root .theme-apricot {
+    --theme-text-color: #a6680c;
+    --theme-bg-color: #a6680c;
+    --theme-border-color: #a6680c;
+    --theme-rgb: 166, 104, 12;
+  }
+
+  :root .theme-blue {
+    --theme-text-color: #3271cf;
+    --theme-bg-color: #3271cf;
+    --theme-border-color: #3271cf;
+    --theme-rgb: 50, 113, 207;
+  }
+
+  :root .theme-fuchsia {
+    --theme-text-color: #d83570;
+    --theme-bg-color: #d83570;
+    --theme-border-color: #d83570;
+    --theme-rgb: 216, 53, 112;
+  }
+
+  :root .theme-lilac {
+    --theme-text-color: #7565d2;
+    --theme-bg-color: #7565d2;
+    --theme-border-color: #7565d2;
+    --theme-rgb: 117, 101, 210;
+  }
+
+  :root .theme-lime {
+    --theme-text-color: #34850f;
+    --theme-bg-color: #34850f;
+    --theme-border-color: #34850f;
+    --theme-rgb: 52, 133, 15;
+  }
+
+  :root .theme-pink {
+    --theme-text-color: #c422dd;
+    --theme-bg-color: #c422dd;
+    --theme-border-color: #c422dd;
+    --theme-rgb: 196, 34, 221;
+  }
+
+  :root .theme-rose {
+    --theme-text-color: #e91616;
+    --theme-bg-color: #e91616;
+    --theme-border-color: #e91616;
+    --theme-rgb: 233, 22, 22;
+  }
+
+  :root .theme-teal {
+    --theme-text-color: #128282;
+    --theme-bg-color: #128282;
+    --theme-border-color: #128282;
+    --theme-rgb: 18, 130, 130;
+  }
+}
+
+[data-theme=light],
+.theme-light {
+  --body-border-color: #464646;
+  --body-bg-color: #fcfcfc;
+  --body-color: #464646;
+  --body-link-hover-color: #000000;
+  --body-link-bg-hover-color: #ffffff;
+  --button-bg-color: #a8a8a8;
+  --tag-bg-color: #c2c2c2;
+  --button-color: #000000;
+  --navbar-border-color: #464646;
+  --navbar-bg-color: #fcfcfc;
+  --navbar-color: #464646;
+  --navbar-item-color: #464646;
+  --navbar-item-hover-color: #000000;
+  --navbar-item-hover-bg-color: #a8a8a8;
+  --muted-color: #464646;
+
+  .theme-apricot {
+    --theme-text-color: #a6680c;
+    --theme-bg-color: #a6680c;
+    --theme-border-color: #a6680c;
+    --theme-rgb: 166, 104, 12;
+  }
+
+  .theme-blue {
+    --theme-text-color: #3271cf;
+    --theme-bg-color: #3271cf;
+    --theme-border-color: #3271cf;
+    --theme-rgb: 50, 113, 207;
+  }
+
+  .theme-fuchsia {
+    --theme-text-color: #d83570;
+    --theme-bg-color: #d83570;
+    --theme-border-color: #d83570;
+    --theme-rgb: 216, 53, 112;
+  }
+
+  .theme-lilac {
+    --theme-text-color: #7565d2;
+    --theme-bg-color: #7565d2;
+    --theme-border-color: #7565d2;
+    --theme-rgb: 117, 101, 210;
+  }
+
+  .theme-lime {
+    --theme-text-color: #34850f;
+    --theme-bg-color: #34850f;
+    --theme-border-color: #34850f;
+    --theme-rgb: 52, 133, 15;
+  }
+
+  .theme-pink {
+    --theme-text-color: #c422dd;
+    --theme-bg-color: #c422dd;
+    --theme-border-color: #c422dd;
+    --theme-rgb: 196, 34, 221;
+  }
+
+  .theme-rose {
+    --theme-text-color: #e91616;
+    --theme-bg-color: #e91616;
+    --theme-border-color: #e91616;
+    --theme-rgb: 233, 22, 22;
+  }
+
+  .theme-teal {
+    --theme-text-color: #128282;
+    --theme-bg-color: #128282;
+    --theme-border-color: #128282;
+    --theme-rgb: 18, 130, 130;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-bg-color: #000000;
+    --body-border-color: #a8a8a8;
+    --body-color: #a8a8a8;
+    --body-link-hover-color: #ffffff;
+    --body-link-bg-hover-color: #000000;
+    --button-bg-color: #a8a8a8;
+    --tag-bg-color: #c2c2c2;
+    --button-color: #000000;
+    --navbar-bg-color: #000000;
+    --navbar-border-color: #a8a8a8;
+    --navbar-color: #a8a8a8;
+    --navbar-item-color: #a8a8a8;
+    --muted-color: rgba(168, 168, 168, .6);
+  }
+
+  :root .theme-apricot {
+    --theme-text-color: #f3a736;
+    --theme-bg-color: #f3a736;
+    --theme-border-color: #f3a736;
+    --theme-rgb: 243, 167, 54;
+  }
+
+  :root .theme-blue {
+    --theme-text-color: #79aefe;
+    --theme-bg-color: #79aefe;
+    --theme-border-color: #79aefe;
+    --theme-rgb: 121, 174, 254;
+  }
+
+  :root .theme-fuchsia {
+    --theme-text-color: #ed4a85;
+    --theme-bg-color: #ed4a85;
+    --theme-border-color: #ed4a85;
+    --theme-rgb: 237, 74, 133;
+  }
+
+  :root .theme-lilac {
+    --theme-text-color: #a090fd;
+    --theme-bg-color: #a090fd;
+    --theme-border-color: #a090fd;
+    --theme-rgb: 160, 144, 253;
+  }
+
+  :root .theme-lime {
+    --theme-text-color: #79ce51;
+    --theme-bg-color: #79ce51;
+    --theme-border-color: #79ce51;
+    --theme-rgb: 121, 206, 81;
+  }
+
+  :root .theme-pink {
+    --theme-text-color: #e498f0;
+    --theme-bg-color: #e498f0;
+    --theme-border-color: #e498f0;
+    --theme-rgb: 228, 152, 240;
+  }
+
+  :root .theme-rose {
+    --theme-text-color: #fd746a;
+    --theme-bg-color: #fd746a;
+    --theme-border-color: #fd746a;
+    --theme-rgb: 253, 116, 106;
+  }
+
+  :root .theme-teal {
+    --theme-text-color: #1ed2b2;
+    --theme-bg-color: #1ed2b2;
+    --theme-border-color: #1ed2b2;
+    --theme-rgb: 30, 210, 178;
+  }
+}
+
+[data-theme=dark],
+.theme-dark {
+  --body-bg-color: #000000;
+  --body-border-color: #a8a8a8;
+  --body-color: #a8a8a8;
+  --body-link-hover-color: #ffffff;
+  --body-link-bg-hover-color: #000000;
+  --button-bg-color: #a8a8a8;
+  --tag-bg-color: #c2c2c2;
+  --button-color: #000000;
+  --navbar-bg-color: #000000;
+  --navbar-border-color: #a8a8a8;
+  --navbar-color: #a8a8a8;
+  --navbar-item-color: #a8a8a8;
+  --muted-color: rgba(168, 168, 168, .6);
+
+  .theme-apricot {
+    --theme-text-color: #f3a736;
+    --theme-bg-color: #f3a736;
+    --theme-border-color: #f3a736;
+    --theme-rgb: 243, 167, 54;
+  }
+
+  .theme-blue {
+    --theme-text-color: #79aefe;
+    --theme-bg-color: #79aefe;
+    --theme-border-color: #79aefe;
+    --theme-rgb: 121, 174, 254;
+  }
+
+  .theme-fuchsia {
+    --theme-text-color: #ed4a85;
+    --theme-bg-color: #ed4a85;
+    --theme-border-color: #ed4a85;
+    --theme-rgb: 237, 74, 133;
+  }
+
+  .theme-lilac {
+    --theme-text-color: #a090fd;
+    --theme-bg-color: #a090fd;
+    --theme-border-color: #a090fd;
+    --theme-rgb: 160, 144, 253;
+  }
+
+  .theme-lime {
+    --theme-text-color: #79ce51;
+    --theme-bg-color: #79ce51;
+    --theme-border-color: #79ce51;
+    --theme-rgb: 121, 206, 81;
+  }
+
+  .theme-pink {
+    --theme-text-color: #e498f0;
+    --theme-bg-color: #e498f0;
+    --theme-border-color: #e498f0;
+    --theme-rgb: 228, 152, 240;
+  }
+
+  .theme-rose {
+    --theme-text-color: #fd746a;
+    --theme-bg-color: #fd746a;
+    --theme-border-color: #fd746a;
+    --theme-rgb: 253, 116, 106;
+  }
+
+  .theme-teal {
+    --theme-text-color: #1ed2b2;
+    --theme-bg-color: #1ed2b2;
+    --theme-border-color: #1ed2b2;
+    --theme-rgb: 30, 210, 178;
+  }
+}
+
+
+// Cover colors
+// -----------------------------------------------------------------------------
+// Declare cover gradient colors (make them the same for a solid background)
+$quire-cover-color-1: null;
+$quire-cover-color-2: null;
+
+@if $theme ==classic {
+  $quire-cover-color-1: $accent-color !default;
+  $quire-cover-color-2: $red !default;
+}
+
+@else {
+  $quire-cover-color-1: $blue !default;
+  $quire-cover-color-2: $accent-color !default;
+}
+
+// Layout sizes
+// -----------------------------------------------------------------------------
+$quire-map-height: 500px;
+$quire-deepzoom-height: 500px;
+//  Heading Styles
+// -----------------------------------------------------------------------------
+
+$heading-1-font-size: 3em;
+$heading-1-line-height: 1.15;
+$heading-2-font-size: 1.75rem;
+$heading-2-line-height: 1.15;
+$heading-3-font-size: 1.5rem;
+$heading-3-line-height: 1.25;
+$heading-4-font-size: 1.375rem;
+$heading-4-line-height: 1.3;
+$heading-5-font-size: 1.25rem;
+$heading-5-line-height: 1.4;
+$heading-6-font-size: 1.1875rem;
+$heading-6-line-height: 1.4;
+
+$font-size-12: .75rem;
+$font-size-13: .8125rem;

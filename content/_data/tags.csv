@@ -1,0 +1,572 @@
+Heading,Sub-Heading,Term,"id (lowercase, dashes for spaces or punctuation)"
+Topics – General ,Disciplines,Anthropology,disciplines-anthropology
+Topics – General ,Disciplines,Archaeology,disciplines-archaeology
+Topics – General,Disciplines,Cultural Studies,disciplines-cultural-studies
+Topics – General,Disciplines,Decolonial Studies,disciplines-decolonial-studies
+Topics – General,Disciplines,Economics,disciplines-economics
+Topics – General,Disciplines,Education,disciplines-education
+Topics – General,Disciplines,Ethnography,disciplines-ethnography
+Topics – General,Disciplines,Geology,disciplines-geology
+Topics – General,Disciplines,Journalism,disciplines-journalism
+Topics – General,Disciplines,Law,disciplines-law
+Topics – General,Disciplines,Medicine,disciplines-medicine
+Topics – General,Disciplines,Philosophy,disciplines-philosophy
+Topics – General,Disciplines,Postcolonial Studies,disciplines-postcolonial-studies
+Topics – General,Disciplines,Queer Studies,disciplines-queer-studies
+Topics – General,Disciplines,Science and Technology,disciplines-science-and-technology
+Topics – General,Disciplines,Technology,disciplines-technology
+Topics – General,Disciplines,Urban Studies,disciplines-urban-studies
+Topics – General,Environments,Aerial Views,environments-aerial-views
+Topics – General,Environments,Agriculture,environments-agriculture
+Topics – General,Environments,Animals,environments-animals
+Topics – General,Environments,Cities,environments-cities
+Topics – General,Environments,Climate and Ecological Crisis,environments-climate-and-ecological-crisis
+Topics – General,Environments,Domesticity,environments-domesticity
+Topics – General,Environments,Energy,environments-energy
+Topics – General,Environments,Food,environments-food
+Topics – General,Environments,Gardens,environments-gardens
+Topics – General,Environments,Geology,environments-geology
+Topics – General,Environments,Internet,environments-internet
+Topics – General,Environments,Landscape,environments-landscape
+Topics – General,Environments,Nature,environments-nature
+Topics – General,Environments,Public Space,environments-public-space
+Topics – General,Environments,Resource Extraction,environments-resource-extraction
+Topics – General,Environments,Travel,environments-travel
+Topics – General,Environments,Waste,environments-waste
+Topics – General,Environments,Water,environments-water
+Topics – General,Environments,Weather,environments-weather
+Topics – General,History,Ancient Egypt,history-ancient-egypt
+Topics – General,History,Ancient Mesopotamia,history-ancient-mesopotamia
+Topics – General,History,British Empire,history-british-empire
+Topics – General,History,Cold War,history-cold-war
+Topics – General,History,French Revolution,history-french-revolution
+Topics – General,History,Industrial Revolution,history-industrial-revolution
+Topics – General,History,Maritime History,history-maritime-history
+Topics – General,History,Prehistory,history-prehistory
+Topics – General,History,Slavery,history-slavery
+Topics – General,History,WWI,history-wwi
+Topics – General,History,WWII,history-wwii
+Topics – General,People and Identities,The Body,people-and-identities-the-body
+Topics – General,People and Identities,Children,people-and-identities-children
+Topics – General,People and Identities,Christianity,people-and-identities-christianity
+Topics – General,People and Identities,Class,people-and-identities-class
+Topics – General,People and Identities,Disease,people-and-identities-disease
+Topics – General,People and Identities,Eroticism,people-and-identities-eroticism
+Topics – General,People and Identities,Gender,people-and-identities-gender
+Topics – General,People and Identities,Identity,people-and-identities-identity
+Topics – General,People and Identities,Indigenous Peoples and Cultures,people-and-identities-indigenous-peoples-and-cultures
+Topics – General,People and Identities,Immigration and Diaspora,people-and-identities-immigration-and-diaspora
+Topics – General,People and Identities,Islam,people-and-identities-islam
+Topics – General,People and Identities,Judaism,people-and-identities-judaism
+Topics – General,People and Identities,Memory,people-and-identities-memory
+Topics – General,People and Identities,Mysticism,people-and-identities-mysticism
+Topics – General,People and Identities,Pilgrimage,people-and-identities-pilgrimage
+Topics – General,People and Identities,Networks,people-and-identities-networks
+Topics – General,People and Identities,Queer Cultures,people-and-identities-queer-cultures
+Topics – General,People and Identities,Race,people-and-identities-race
+Topics – General,People and Identities,Sexuality,people-and-identities-sexuality
+Topics – General,People and Identities,The Supernatural,people-and-identities-the-supernatural
+Topics – General,Politics and Economics,Activism and Protest,politics-and-economics-activism-and-protest
+Topics – General,Politics and Economics,British Monarchy and Aristocracy,politics-and-economics-british-monarchy-and-aristocracy
+Topics – General,Politics and Economics,Capitalism,politics-and-economics-capitalism
+Topics – General,Politics and Economics,Commodities,politics-and-economics-commodities
+Topics – General,Politics and Economics,Conflict and War,politics-and-economics-conflict-and-war
+Topics – General,Politics and Economics,Decolonisation,politics-and-economics-decolonisation
+Topics – General,Politics and Economics,Diplomacy,politics-and-economics-diplomacy
+Topics – General,Politics and Economics,Fascism,politics-and-economics-fascism
+Topics – General,Politics and Economics,Feminism,politics-and-economics-feminism
+Topics – General,Politics and Economics,Gentrification,politics-and-economics-gentrification
+Topics – General,Politics and Economics,Insurance,politics-and-economics-insurance
+Topics – General,Politics and Economics,Labour,politics-and-economics-labour
+Topics – General,Politics and Economics,Nationalism,politics-and-economics-nationalism
+Topics – General,Politics and Economics,Pacifism,politics-and-economics-pacifism
+Topics – General,Politics and Economics,Racial Justice,politics-and-economics-racial-justice
+Topics – General,Politics and Economics,Racism,politics-and-economics-racism
+Topics – General,Politics and Economics,Socialism,politics-and-economics-socialism
+Topics – General,Politics and Economics,The State,politics-and-economics-the-state
+Topics – General,Politics and Economics,Trade,politics-and-economics-trade
+Topics – Art,Aesthetics,Aesthetics,aesthetics-aesthetics
+Topics – Art,Aesthetics,Allegory,aesthetics-allegory
+Topics – Art,Aesthetics,Appropriation,aesthetics-appropriation
+Topics – Art,Aesthetics,Copies,aesthetics-copies
+Topics – Art,Aesthetics,Forgery,aesthetics-forgery
+Topics – Art,Aesthetics,Iconoclasm,aesthetics-iconoclasm
+Topics – Art,Aesthetics,Institutional Critique,aesthetics-institutional-critique
+Topics – Art,Aesthetics,Luxury,aesthetics-luxury
+Topics – Art,Aesthetics,Ornament,aesthetics-ornament
+Topics – Art,Aesthetics,Pattern,aesthetics-pattern
+Topics – Art,Aesthetics,Reproduction,aesthetics-reproduction
+Topics – Art,Aesthetics,Ruin,aesthetics-ruin
+Topics – Art,Aesthetics,Satire,aesthetics-satire
+Topics – Art,Aesthetics,The Sublime,aesthetics-the-sublime
+Topics – Art,Artistic Practice,Artistic Collaboration,artistic-practice-artistic-collaboration
+Topics – Art,Artistic Practice,Artistic Process,artistic-practice-artistic-process
+Topics – Art,Artistic Practice,Collectives,artistic-practice-collectives
+Topics – Art,Audiences,Art Market,audiences-art-market
+Topics – Art,Audiences,Arts Funding,audiences-arts-funding
+Topics – Art,Audiences,Audiences,audiences-audiences
+Topics – Art,Audiences,Collecting,audiences-collecting
+Topics – Art,Audiences,Commissioning,audiences-commissioning
+Topics – Art,Audiences,Connoisseurship,audiences-connoisseurship
+Topics – Art,Audiences,Display,audiences-display
+Topics – Art,Audiences,Grand Tour,audiences-grand-tour
+Topics – Art,Audiences,Leisure,audiences-leisure
+Topics – Art,Audiences,Looted Art,audiences-looted-art
+Topics – Art,Audiences,Patronage,audiences-patronage
+Topics – Art,Audiences,Reception,audiences-reception
+Topics – Art,Audiences,Tourism,audiences-tourism
+Topics – Art,Disciplines,Art Criticism,disciplines-art-criticism
+Topics – Art,Disciplines,Art Theory,disciplines-art-theory
+Topics – Art,Disciplines,Conservation and Restoration,disciplines-conservation-and-restoration
+Topics – Art,Disciplines,Costume Design,disciplines-costume-design
+Topics – Art,Disciplines,Curating,disciplines-curating
+Topics – Art,Disciplines,Decorative Arts,disciplines-decorative-arts
+Topics – Art,Disciplines,Digital Art History,disciplines-digital-art-history
+Topics – Art,Disciplines,Literature,disciplines-literature
+Topics – Art,Disciplines,Material Culture,disciplines-material-culture
+Topics – Art,Disciplines,Music,disciplines-music
+Topics – Art,Disciplines,Poetry,disciplines-poetry
+Topics – Art,Disciplines,Technical Art History,disciplines-technical-art-history
+Topics – Art,Disciplines,Theatre,disciplines-theatre
+Topics – Art,Genres,Funerary Art,genres-funerary-art
+Topics – Art,Genres,History Painting,genres-history-painting
+Topics – Art,Genres,Monuments,genres-monuments
+Topics – Art,Genres,Portraiture,genres-portraiture
+Topics – Art,Genres,Religious Art and Architecture,genres-religious-art-and-architecture
+Topics – Art,Genres,Self-Portraiture,genres-self-portraiture
+Topics – Art,Genres,Science Fiction,genres-science-fiction
+Topics – Art,Methods,Colour Theory,methods-colour-theory
+Topics – Art,Methods,Data Analysis,methods-data-analysis
+Topics – Art,Methods,Exhibition Histories,methods-exhibition-histories
+Topics – Art,Methods,Historiography,methods-historiography
+Topics – Art,Methods,Mapping,methods-mapping
+Topics – Art,Places,Archives,places-archives
+Topics – Art,Places,Artist Houses,places-artist-houses
+Topics – Art,Places,Artist Studios,places-artist-studios
+Topics – Art,Places,Art Schools,places-art-schools
+Topics – Art,Places,Country Houses,places-country-houses
+Topics – Art,Places,Museums and Galleries,places-museums-and-galleries
+Century,,1000–1099,century-1000–1099
+Century,,1100–1199,century-1100–1199
+Century,,1200–1299,century-1200–1299
+Century,,1300–1399,century-1300–1399
+Century,,1400–1499,century-1400–1499
+Century,,1500–1599,century-1500–1599
+Century,,1600–1699,century-1600–1699
+Century,,1700–1799,century-1700–1799
+Century,,1800–1899,century-1800–1899
+Century,,1900–1999,century-1900–1999
+Century,,2000–Present,century-2000–present
+"Material, Medium, and Technique",,3D Printing,material-medium-and-technique-3d-printing
+"Material, Medium, and Technique",,Advertising,material-medium-and-technique-advertising
+"Material, Medium, and Technique",,Albums,material-medium-and-technique-albums
+"Material, Medium, and Technique",,Architecture,material-medium-and-technique-architecture
+"Material, Medium, and Technique",,Artist’s Books,material-medium-and-technique-artist’s-books
+"Material, Medium, and Technique",,Beadwork,material-medium-and-technique-beadwork
+"Material, Medium, and Technique",,Body Art,material-medium-and-technique-body-art
+"Material, Medium, and Technique",,Ceramics,material-medium-and-technique-ceramics
+"Material, Medium, and Technique",,Clothing,material-medium-and-technique-clothing
+"Material, Medium, and Technique",,Collage,material-medium-and-technique-collage
+"Material, Medium, and Technique",,Craft,material-medium-and-technique-craft
+"Material, Medium, and Technique",,Dance,material-medium-and-technique-dance
+"Material, Medium, and Technique",,Design,material-medium-and-technique-design
+"Material, Medium, and Technique",,Digital Art,material-medium-and-technique-digital-art
+"Material, Medium, and Technique",,Dioramas,material-medium-and-technique-dioramas
+"Material, Medium, and Technique",,Drawing,material-medium-and-technique-drawing
+"Material, Medium, and Technique",,Film,material-medium-and-technique-film
+"Material, Medium, and Technique",,Found Objects,material-medium-and-technique-found-objects
+"Material, Medium, and Technique",,Furniture,material-medium-and-technique-furniture
+"Material, Medium, and Technique",,Glass,material-medium-and-technique-glass
+"Material, Medium, and Technique",,Illustration,material-medium-and-technique-illustration
+"Material, Medium, and Technique",,Installation Art,material-medium-and-technique-installation-art
+"Material, Medium, and Technique",,Interior Decoration,material-medium-and-technique-interior-decoration
+"Material, Medium, and Technique",,Jewellery and Accessories,material-medium-and-technique-jewellery-and-accessories
+"Material, Medium, and Technique",,Land Art,material-medium-and-technique-land-art
+"Material, Medium, and Technique",,Lantern Slides,material-medium-and-technique-lantern-slides
+"Material, Medium, and Technique",,Manuscripts,material-medium-and-technique-manuscripts
+"Material, Medium, and Technique",,Maps,material-medium-and-technique-maps
+"Material, Medium, and Technique",,Mass Media,material-medium-and-technique-mass-media
+"Material, Medium, and Technique",,Metalwork,material-medium-and-technique-metalwork
+"Material, Medium, and Technique",,Miniatures,material-medium-and-technique-miniatures
+"Material, Medium, and Technique",,Mobiles,material-medium-and-technique-mobiles
+"Material, Medium, and Technique",,Mosaic,material-medium-and-technique-mosaic
+"Material, Medium, and Technique",,Moving Image,material-medium-and-technique-moving-image
+"Material, Medium, and Technique",,Murals,material-medium-and-technique-murals
+"Material, Medium, and Technique",,Paintings,material-medium-and-technique-paintings
+"Material, Medium, and Technique",,Panoramas,material-medium-and-technique-panoramas
+"Material, Medium, and Technique",,Participatory Art,material-medium-and-technique-participatory-art
+"Material, Medium, and Technique",,Performance,material-medium-and-technique-performance
+"Material, Medium, and Technique",,Photography,material-medium-and-technique-photography
+"Material, Medium, and Technique",,Pigments,material-medium-and-technique-pigments
+"Material, Medium, and Technique",,Prints,material-medium-and-technique-prints
+"Material, Medium, and Technique",,Public Art,material-medium-and-technique-public-art
+"Material, Medium, and Technique",,Publications and Print Ephemera,material-medium-and-technique-publications-and-print-ephemera
+"Material, Medium, and Technique",,Sculpture,material-medium-and-technique-sculpture
+"Material, Medium, and Technique",,Silhouettes,material-medium-and-technique-silhouettes
+"Material, Medium, and Technique",,Sound Art,material-medium-and-technique-sound-art
+"Material, Medium, and Technique",,Stone,material-medium-and-technique-stone
+"Material, Medium, and Technique",,Television,material-medium-and-technique-television
+"Material, Medium, and Technique",,Textiles,material-medium-and-technique-textiles
+"Material, Medium, and Technique",,Typography,material-medium-and-technique-typography
+"Material, Medium, and Technique",,Videography,material-medium-and-technique-videography
+"Material, Medium, and Technique",,Wall Painting,material-medium-and-technique-wall-painting
+"Material, Medium, and Technique",,Watercolours,material-medium-and-technique-watercolours
+"Material, Medium, and Technique",,Wax,material-medium-and-technique-wax
+"Material, Medium, and Technique",,Wood,material-medium-and-technique-wood
+"Material, Medium, and Technique",,Shellwork,material-medium-and-technique-shellwork
+Styles & Movements,,Abstract Expressionism,styles-and-movements-abstract-expressionism
+Styles & Movements,,Abstraction,styles-and-movements-abstraction
+Styles & Movements,,Afrofuturism,styles-and-movements-afrofuturism
+Styles & Movements,,Archigram,styles-and-movements-archigram
+Styles & Movements,,Art Deco,styles-and-movements-art-deco
+Styles & Movements,,Art Nouveau,styles-and-movements-art-nouveau
+Styles & Movements,,Arts and Crafts Movement,styles-and-movements-arts-and-crafts-movement
+Styles & Movements,,Baroque,styles-and-movements-baroque
+Styles & Movements,,Brutalism,styles-and-movements-brutalism
+Styles & Movements,,Byzantine,styles-and-movements-byzantine
+Styles & Movements,,The Caribbean Artists Movement,styles-and-movements-the-caribbean-artists-movement
+Styles & Movements,,Chinoiserie,styles-and-movements-chinoiserie
+Styles & Movements,,Classicism,styles-and-movements-classicism
+Styles & Movements,,Conceptual Art,styles-and-movements-conceptual-art
+Styles & Movements,,Concrete Poetry,styles-and-movements-concrete-poetry
+Styles & Movements,,Constructionism,styles-and-movements-constructionism
+Styles & Movements,,Constructivism,styles-and-movements-constructivism
+Styles & Movements,,Cubism,styles-and-movements-cubism
+Styles & Movements,,Dada,styles-and-movements-dada
+Styles & Movements,,Edwardian,styles-and-movements-edwardian
+Styles & Movements,,Elizabethan,styles-and-movements-elizabethan
+Styles & Movements,,Futurism,styles-and-movements-futurism
+Styles & Movements,,Georgian,styles-and-movements-georgian
+Styles & Movements,,Gothic,styles-and-movements-gothic
+Styles & Movements,,Impressionism,styles-and-movements-impressionism
+Styles & Movements,,Jacobean,styles-and-movements-jacobean
+Styles & Movements,,Kitchen Sink,styles-and-movements-kitchen-sink
+Styles & Movements,,Land Art,styles-and-movements-land-art
+Styles & Movements,,Medieval,styles-and-movements-medieval
+Styles & Movements,,Minimalism,styles-and-movements-minimalism
+Styles & Movements,,Modernism,styles-and-movements-modernism
+Styles & Movements,,Neo-expressionism,styles-and-movements-neo-expressionism
+Styles & Movements,,Neo-Romanticism,styles-and-movements-neo-romanticism
+Styles & Movements,,Op Art,styles-and-movements-op-art
+Styles & Movements,,Orientalism,styles-and-movements-orientalism
+Styles & Movements,,Pop,styles-and-movements-pop
+Styles & Movements,,Post-Impressionism,styles-and-movements-post-impressionism
+Styles & Movements,,Pre-Raphaelitism,styles-and-movements-pre-raphaelitism
+Styles & Movements,,Realism,styles-and-movements-realism
+Styles & Movements,,Renaissance,styles-and-movements-renaissance
+Styles & Movements,,Revivalism,styles-and-movements-revivalism
+Styles & Movements,,Rococo,styles-and-movements-rococo
+Styles & Movements,,Romanesque,styles-and-movements-romanesque
+Styles & Movements,,Romanticism,styles-and-movements-romanticism
+Styles & Movements,,Surrealism,styles-and-movements-surrealism
+Styles & Movements,,Symbolism,styles-and-movements-symbolism
+Styles & Movements,,Victorian,styles-and-movements-victorian
+Styles & Movements,,Vorticism,styles-and-movements-vorticism
+Styles & Movements,,Picturesque,styles-and-movements-picturesque
+Place,Africa,Algeria,africa-algeria
+Place,Africa,Angola,africa-angola
+Place,Africa,Benin,africa-benin
+Place,Africa,Botswana,africa-botswana
+Place,Africa,Burkina Faso,africa-burkina-faso
+Place,Africa,Burundi,africa-burundi
+Place,Africa,Cabo Verde,africa-cabo-verde
+Place,Africa,Cameroon,africa-cameroon
+Place,Africa,Central African Republic,africa-central-african-republic
+Place,Africa,Chad,africa-chad
+Place,Africa,Comoros,africa-comoros
+Place,Africa,Congo,africa-congo
+Place,Africa,Côte D'Ivoire,africa-cote-divoire
+Place,Africa,Democratic Republic of the Congo,africa-democratic-republic-of-the-congo
+Place,Africa,Djibouti,africa-djibouti
+Place,Africa,Egypt,africa-egypt
+Place,Africa,Equatorial Guinea,africa-equatorial-guinea
+Place,Africa,Eritrea,africa-eritrea
+Place,Africa,Eswatini,africa-eswatini
+Place,Africa,Ethiopia,africa-ethiopia
+Place,Africa,Gabon,africa-gabon
+Place,Africa,The Gambia,africa-the-gambia
+Place,Africa,Ghana,africa-ghana
+Place,Africa,Guinea,africa-guinea
+Place,Africa,Guinea Bissau,africa-guinea-bissau
+Place,Africa,Guyana,africa-guyana
+Place,Africa,Kenya,africa-kenya
+Place,Africa,Lesotho,africa-lesotho
+Place,Africa,Liberia,africa-liberia
+Place,Africa,Libya,africa-libya
+Place,Africa,Madagascar,africa-madagascar
+Place,Africa,Malawi,africa-malawi
+Place,Africa,Mali,africa-mali
+Place,Africa,Malta,africa-malta
+Place,Africa,Mauritania,africa-mauritania
+Place,Africa,Mauritius,africa-mauritius
+Place,Africa,Morocco,africa-morocco
+Place,Africa,Mozambique,africa-mozambique
+Place,Africa,Namibia,africa-namibia
+Place,Africa,Niger,africa-niger
+Place,Africa,Nigeria,africa-nigeria
+Place,Africa,Rwanda,africa-rwanda
+Place,Africa,Sao Tome and Principe,africa-sao-tome-and-principe
+Place,Africa,Senegal,africa-senegal
+Place,Africa,Seychelles,africa-seychelles
+Place,Africa,Sierra Leone,africa-sierra-leone
+Place,Africa,Somalia,africa-somalia
+Place,Africa,South Africa,africa-south-africa
+Place,Africa,South Sudan,africa-south-sudan
+Place,Africa,Sudan,africa-sudan
+Place,Africa,Togo,africa-togo
+Place,Africa,Tunisia,africa-tunisia
+Place,Africa,Uganda,africa-uganda
+Place,Africa,Tanzania,africa-tanzania
+Place,Africa,Western Sahara,africa-western-sahara
+Place,Africa,Zambia,africa-zambia
+Place,Africa,Zimbabwe,africa-zimbabwe
+Place,Asia,Afghanistan,asia-afghanistan
+Place,Asia,Armenia,asia-armenia
+Place,Asia,Azerbaijan,asia-azerbaijan
+Place,Asia,Bahrain,asia-bahrain
+Place,Asia,Bangladesh,asia-bangladesh
+Place,Asia,Bhutan,asia-bhutan
+Place,Asia,Brunei ,asia-brunei-darussalam
+Place,Asia,Cambodia,asia-cambodia
+Place,Asia,China,asia-china
+Place,Asia,Democratic People's Republic of Korea,asia-democratic-people-s-republic-of-korea
+Place,Asia,Georgia,asia-georgia
+Place,Asia,Hong Kong,asia-hong-kong
+Place,Asia,India,asia-india
+Place,Asia,Indonesia,asia-indonesia
+Place,Asia,Iran,asia-iran
+Place,Asia,Iraq,asia-iraq
+Place,Asia,Israel,asia-israel
+Place,Asia,Japan,asia-japan
+Place,Asia,Jordan,asia-jordan
+Place,Asia,Kazakhstan,asia-kazakhstan
+Place,Asia,Kuwait,asia-kuwait
+Place,Asia,Kyrgyzstan,asia-kyrgyzstan
+Place,Asia,Laos,asia-laos
+Place,Asia,Lebanon,asia-lebanon
+Place,Asia,Maldives,asia-maldives
+Place,Asia,Mongolia,asia-mongolia
+Place,Asia,Myanmar,asia-myanmar
+Place,Asia,Nepal,asia-nepal
+Place,Asia,Oman,asia-oman
+Place,Asia,Pakistan,asia-pakistan
+Place,Asia,Palestine,asia-palestine
+Place,Asia,Philippines,asia-philippines
+Place,Asia,Qatar,asia-qatar
+Place,Asia,Republic of Korea,asia-republic-of-korea
+Place,Asia,Saudi Arabia,asia-saudi-arabia
+Place,Asia,Singapore,asia-singapore
+Place,Asia,Sri Lanka,asia-sri-lanka
+Place,Asia,Syria,asia-syria
+Place,Asia,Taiwan,asia-taiwan
+Place,Asia,Tajikistan,asia-tajikistan
+Place,Asia,Thailand,asia-thailand
+Place,Asia,Timor-Leste,asia-timor-leste
+Place,Asia,Turkey,asia-turkey
+Place,Asia,Turkmenistan,asia-turkmenistan
+Place,Asia,United Arab Emirates,asia-united-arab-emirates
+Place,Asia,Uzbekistan,asia-uzbekistan
+Place,Asia,Viet Nam,asia-viet-nam
+Place,Asia,Yemen,asia-yemen
+Place,Asia,Anguilla,asia-anguilla
+Place,The Caribbean,Antigua and Barbuda,the-caribbean-antigua-and-barbuda
+Place,The Caribbean,Bahamas,the-caribbean-bahamas
+Place,The Caribbean,Barbados,the-caribbean-barbados
+Place,The Caribbean,Bermuda,the-caribbean-bermuda
+Place,The Caribbean,British Virgin Islands,the-caribbean-british-virgin-islands
+Place,The Caribbean,Cayman Islands,the-caribbean-cayman-islands
+Place,The Caribbean,Cuba,the-caribbean-cuba
+Place,The Caribbean,Dominica,the-caribbean-dominica
+Place,The Caribbean,Dominican Republic,the-caribbean-dominican-republic
+Place,The Caribbean,Grenada,the-caribbean-grenada
+Place,The Caribbean,Haiti,the-caribbean-haiti
+Place,The Caribbean,Jamaica,the-caribbean-jamaica
+Place,The Caribbean,Montserrat,the-caribbean-montserrat
+Place,The Caribbean,Saint Kitts and Nevis,the-caribbean-saint-kitts-and-nevis
+Place,The Caribbean,Saint Lucia,the-caribbean-saint-lucia
+Place,The Caribbean,Saint Vincent and the Grenadines,the-caribbean-saint-vincent-and-the-grenadines
+Place,The Caribbean,Turks and Caicos,the-caribbean-turks-and-caicos
+Place,The Caribbean,United States Virgin Islands,the-caribbean-united-states-virgin-islands
+Place,The Caribbean,Trinidad and Tobago,the-caribbean-trinidad-and-tobago
+Place,Central America,Costa Rica,central-america-costa-rica
+Place,Central America,El Salvador,central-america-el-salvador
+Place,Central America,Guatemala,central-america-guatemala
+Place,Central America,Honduras,central-america-honduras
+Place,Central America,Mexico,central-america-mexico
+Place,Central America,Nicaragua,central-america-nicaragua
+Place,Central America,Panama,central-america-panama
+Place,Europe,Albania,europe-albania
+Place,Europe,Andorra,europe-andorra
+Place,Europe,Austria,europe-austria
+Place,Europe,Belarus,europe-belarus
+Place,Europe,Belgium,europe-belgium
+Place,Europe,Bosnia and Herzegovina,europe-bosnia-and-herzegovina
+Place,Europe,Bulgaria,europe-bulgaria
+Place,Europe,Croatia,europe-croatia
+Place,Europe,Cyprus,europe-cyprus
+Place,Europe,Czechia,europe-czechia
+Place,Europe,Denmark,europe-denmark
+Place,Europe,Estonia,europe-estonia
+Place,Europe,Finland,europe-finland
+Place,Europe,France,europe-france
+Place,Europe,Germany,europe-germany
+Place,Europe,Greece,europe-greece
+Place,Europe,Hungary,europe-hungary
+Place,Europe,Iceland,europe-iceland
+Place,Europe,Ireland,europe-ireland
+Place,Europe,Italy,europe-italy
+Place,Europe,Latvia,europe-latvia
+Place,Europe,Liechtenstein,europe-liechtenstein
+Place,Europe,Lithuania,europe-lithuania
+Place,Europe,Luxembourg,europe-luxembourg
+Place,Europe,Monaco,europe-monaco
+Place,Europe,Montenegro,europe-montenegro
+Place,Europe,Netherlands,europe-netherlands
+Place,Europe,North Macedonia,europe-north-macedonia
+Place,Europe,Norway,europe-norway
+Place,Europe,Poland,europe-poland
+Place,Europe,Portugal,europe-portugal
+Place,Europe,Republic of Moldova,europe-republic-of-moldova
+Place,Europe,Romania,europe-romania
+Place,Europe,Russia,europe-russia
+Place,Europe,San Marino,europe-san-marino
+Place,Europe,Serbia,europe-serbia
+Place,Europe,Slovakia,europe-slovakia
+Place,Europe,Slovenia,europe-slovenia
+Place,Europe,Spain,europe-spain
+Place,Europe,Sweden,europe-sweden
+Place,Europe,Switzerland,europe-switzerland
+Place,Europe,Ukraine,europe-ukraine
+Place,Europe,UK,europe-united-kingdom
+Place,North America,Canada,north-america-canada
+Place,North America,USA,north-america-united-states-of-america
+Place,Oceania,American Samoa,oceania-american-samoa
+Place,Oceania,Aotearoa New Zealand,oceania-aotearoa-new-zealand
+Place,Oceania,Australia,oceania-australia
+Place,Oceania,Fiji,oceania-fiji
+Place,Oceania,French Polynesia,oceania-french-polynesia
+Place,Oceania,Guam,oceania-guam
+Place,Oceania,Kiribati,oceania-kiribati
+Place,Oceania,Malaysia,oceania-malaysia
+Place,Oceania,Marshall Islands,oceania-marshall-islands
+Place,Oceania,Micronesia,oceania-micronesia-federated-states-of-
+Place,Oceania,Nauru,oceania-nauru
+Place,Oceania,New Caledonia,oceania-new-caledonia
+Place,Oceania,Palau,oceania-palau
+Place,Oceania,Papua New Guinea,oceania-papua-new-guinea
+Place,Oceania,Pitcairn,oceania-pitcairn
+Place,Oceania,Samoa,oceania-samoa
+Place,Oceania,Solomon Islands,oceania-solomon-islands
+Place,Oceania,Tokelau,oceania-tokelau
+Place,Oceania,Tonga,oceania-tonga
+Place,Oceania,Tuvalu,oceania-tuvalu
+Place,Oceania,Vanuatu,oceania-vanuatu
+Place,South America,Argentina,south-america-argentina
+Place,South America,Belize,south-america-belize
+Place,South America,Bolivia,south-america-bolivia-plurinational-state-of-
+Place,South America,Brazil,south-america-brazil
+Place,South America,Chile,south-america-chile
+Place,South America,Colombia,south-america-colombia
+Place,South America,Ecuador,south-america-ecuador
+Place,South America,Paraguay,south-america-paraguay
+Place,South America,Peru,south-america-peru
+Place,South America,Suriname,south-america-suriname
+Place,South America,Uruguay,south-america-uruguay
+Place,South America,Venezuela,south-america-venezuela-bolivarian-republic-of
+Place,UK Regions,East Midlands,uk-regions-east-midlands
+Place,UK Regions,East of England,uk-regions-east-of-england
+Place,UK Regions,England,uk-regions-england
+Place,UK Regions,London,uk-regions-london
+Place,UK Regions,North East,uk-regions-north-east
+Place,UK Regions,North West,uk-regions-north-west
+Place,UK Regions,Northern Ireland,uk-regions-northern-ireland
+Place,UK Regions,Scotland,uk-regions-scotland
+Place,UK Regions,South East,uk-regions-south-east
+Place,UK Regions,South West,uk-regions-south-west
+Place,UK Regions,Yorkshire & the Humber,uk-regions-yorkshire-and-the-humber
+Place,Global Regions,The Arctic,global-regions-the-arctic
+Place,Global Regions,The Caribbean,global-regions-the-caribbean
+Place,Global Regions,Kurdistan,global-regions-kurdistan
+Place,Global Regions,South Asia,global-regions-south-asia
+Place,Global Regions,West Africa,global-regions-west-africa
+Place,Cities,Ahmedabad,cities-ahmedabad
+Place,Cities,Antwerp,cities-antwerp
+Place,Cities,Belgrade,cities-belgrade
+Place,Cities,Berlin,cities-berlin
+Place,Cities,Boston,cities-boston
+Place,Cities,Brisbane,cities-brisbane
+Place,Cities,Brussels,cities-brussels
+Place,Cities,Buenos Aires,cities-buenos-aires
+Place,Cities,Cape Town,cities-cape-town
+Place,Cities,Chicago,cities-chicago
+Place,Cities,Chichester,cities-chichester
+Place,Cities,"Columbus, Indiana",cities-columbus-indiana
+Place,Cities,Delhi,cities-delhi
+Place,Cities,Dhaka,cities-dhaka
+Place,Cities,Dresden,cities-dresden
+Place,Cities,Dublin,cities-dublin
+Place,Cities,Edinburgh,cities-edinburgh
+Place,Cities,Flanders,cities-flanders
+Place,Cities,Florence,cities-florence
+Place,Cities,Glasgow,cities-glasgow
+Place,Cities,Hereford,cities-hereford
+Place,Cities,Iowa City,cities-iowa-city
+Place,Cities,Istanbul,cities-istanbul
+Place,Cities,Jerusalem,cities-jerusalem
+Place,Cities,Kanpur,cities-kanpur
+Place,Cities,Kassel,cities-kassel
+Place,Cities,Krefeld,cities-krefeld
+Place,Cities,Kuala Lumpur,cities-kuala-lumpur
+Place,Cities,Kyoto,cities-kyoto
+Place,Cities,Lahore,cities-lahore
+Place,Cities,Lincoln,cities-lincoln
+Place,Cities,Liverpool,cities-liverpool
+Place,Cities,Ljubljana,cities-ljubljana
+Place,Cities,London,cities-london
+Place,Cities,Los Angeles,cities-los-angeles
+Place,Cities,Manchester,cities-manchester
+Place,Cities,Melbourne,cities-melbourne
+Place,Cities,Milan,cities-milan
+Place,Cities,New Delhi,cities-new-delhi
+Place,Cities,New Haven,cities-new-haven
+Place,Cities,New York City,cities-new-york-city
+Place,Cities,Otterlo,cities-otterlo
+Place,Cities,Paris,cities-paris
+Place,Cities,Perth,cities-perth
+Place,Cities,Rio de Janeiro,cities-rio-de-janeiro
+Place,Cities,Rome,cities-rome
+Place,Cities,San Francisco,cities-san-francisco
+Place,Cities,São Paulo,cities-sao-paulo
+Place,Cities,Sheffield,cities-sheffield
+Place,Cities,St Andrews,cities-st-andrews
+Place,Cities,St Petersburg,cities-st-petersburg
+Place,Cities,Stoke-on-Trent,cities-stoke-on-trent
+Place,Cities,Sydney,cities-sydney
+Place,Cities,The Hague,cities-the-hague
+Place,Cities,Tokyo,cities-tokyo
+Place,Cities,Venice,cities-venice
+Place,Cities,Vienna,cities-vienna
+Place,Cities,Warsaw,cities-warsaw
+Place,Cities,Washington DC,cities-washington-dc
+Place,Cities,Wells,cities-wells
+Place,Cities,York,cities-york
+Place,Cities,Zagreb,cities-zagreb
+Place,Oceans,Arctic Ocean,oceans-arctic-ocean
+Place,Oceans,Atlantic Ocean,oceans-atlantic-ocean
+Place,Oceans,Indian Ocean,oceans-indian-ocean
+Place,Oceans,Pacific Ocean,oceans-pacific-ocean
+Place,Oceans,Southern Ocean,oceans-southern-ocean
+Place,Oceans,The Caribbean Sea,oceans-the-caribbean-sea
+Place,Oceans,Mediterranean Sea,oceans-mediterranean-sea
+Place,Oceans,North Sea,oceans-north-sea
+Place,Oceans,Irish Sea,oceans-irish-sea
+Place,South America,Falkland Islands,place-falkland-islands
+Place,Africa,Saint Helena,place-saint-helena
+Place,Europe,Gibraltar,place-gibraltar
+Place,Continents,Africa,continents-africa
+Place,Continents,Antarctica,continents-antarctica
+Place,Continents,Asia,continents-asia
+Place,Continents,Europe,continents-europe
+Place,Continents,North America,continents-north-america
+Place,Continents,Oceania,continents-oceania
+Place,Continents,South America,continents-south-america

@@ -1,0 +1,148 @@
+---
+classes:
+- gallery-section
+- main-layout
+layout: base.11ty.js
+eleventyNavigation:
+  hide: true
+---
+{% assign heroFigure = hero_figure | getFigure %}
+{% assign pageType = key | getPageType %}
+
+{% if heroFigure.src %}
+{% assign pageImageSrc = config.figures.imageDir | concat: heroFigure.src | join: '/' %}
+{% else %}
+{% assign pageImageSrc = 'https://versions.bulma.io/0.7.0/images/placeholders/1280x960.png' %}
+{% endif %}
+
+<section class="gallery-section theme-fuchsia">
+  <div class="sub-heading-section">
+    <button class="menu-button" id="quire-controls-menu-button" onclick="toggleContentMenu()" aria-expanded="true"
+      aria-controls="quire-menu" tabindex="2">
+      <svg>
+        <switch>
+          <use xlink:href="#list-icon"></use>
+        </switch>
+      </svg>
+      <span class="visually-hidden">Table of Contents</span>
+    </button>
+    <button id="keywords-button" onclick="toggleKeywords()"
+      class="menu-button  fixed-width theme-border-right theme-border-left">
+      <span class="visually-hidden">Show/Hide</span>
+      <span id="menu-btn-text">Tags</span>
+      <svg id="menu-btn-active" class="is-hidden">
+        <switch>
+          <use xlink:href="#close-icon"></use>
+        </switch>
+      </svg>
+    </button>
+    <h2 class="sub-heading"> {{title}}</h2>
+    <button class="menu-button theme-border-left">
+      <svg>
+        <switch>
+          <use xlink:href="#download-icon"></use>
+        </switch>
+      </svg>
+      <span class="visually-hidden">Download Contents</span>
+    </button>
+    <button class="menu-button theme-border-left">
+      <svg>
+        <switch>
+          <use xlink:href="#share-icon"></use>
+        </switch>
+      </svg>
+      <span class="visually-hidden">Share Contents</span>
+    </button>
+    <section class="gallery-section--keywords gallery-section--overlay theme-border-bottom is-hidden">
+      <div class="keywords field is-grouped is-grouped-multiline">
+        {% for subject in subjects %}
+        <div class="control">
+          <div class="tags">
+            <a class="tag is-link" data-term-id="{{ [ subject.type, subject.name ] | join: '/' }}">{{
+              subject.name }}</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+  <div class="gallery-section--main-container">
+    <div class="gallery-section--toc">
+      <div aria-expanded="false" class="quire__secondary" id="content-menu" role="contentinfo"
+        data-outputs-exclude="epub,pdf"></div>
+    </div>
+    <div id="gallery-section-main" class="gallery-section--main">
+      <section class="gallery-section--slide theme-border-bottom">
+        <div class="columns gapless">
+          <div class="column is-three-fifths ml-3">
+
+            <div class="heading-section">
+
+              <span class="page-type">animating the archive</span>
+              <h1>Slade, London, Asia: Animating the Archive (Part 1)</h1>
+              <span class="contributor-by">By</span>
+
+              <span class="contributor-name">Liz Bruchet and Ming Tiampo</span>
+              <span class="word-count"> word count: <span class="word-count-num">15.429</span></span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+      <section>
+        <div class="is-flex is-justify-content-flex-end py-1"><button class="hi-res-button">See Hi-Res</button></div>
+        <div class="columns is-multiline is-gapless is-mobile">
+          <div class="column is-half-mobile
+        is-one-third-tablet is-one-fifth-desktop">
+
+            <div class="card title-card">
+
+              <div class="card-content">
+
+
+                <div class="content">
+                  Introduction
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="column is-half-mobile
+        is-one-third-tablet is-one-fifth-desktop">
+
+            <div class="card heading-card">
+
+              <div class="card-content">
+                <div class="content">
+                  I. Institutional Pathways and Documentary trails
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="column is-half-mobile
+          is-one-third-tablet is-one-fifth-desktop">
+            <div class="card">
+              <img src="https://bulma.io/assets/images/placeholders/1280x960.png" alt="Placeholder image" />
+            </div>
+          </div>
+          <div class="column is-half-mobile
+          is-one-third-tablet is-one-fifth-desktop">
+            <div class="card">
+
+              <img src="https://bulma.io/assets/images/placeholders/240x720.png" alt="Placeholder image" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <button class="main-button back-to-top is-hidden" onclick="topFunction()" id="back-to-top" title="Go to top">Back
+        to Top
+        <svg>
+          <switch>
+            <use xlink:href="#down-arrow-icon"></use>
+          </switch>
+        </svg>
+      </button>
+    </div>
+  </div>
+</section>

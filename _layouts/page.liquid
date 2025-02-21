@@ -1,0 +1,24 @@
+---
+classes:
+  - page-section
+  - main-layout
+layout: base.11ty.js
+description: Single page default template
+---
+
+<div class="page-section--main-container">
+  <div class="page-section--toc"></div>
+  <div class="page-section--main">
+  {% if content %}
+  <section class="section quire-page__content">
+
+      {{ content }}
+      {% bibliography citations outputs page_pdf_output %}
+
+
+  </section>
+  </div>
+
+</div>
+{% endif %}
+

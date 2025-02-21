@@ -1,0 +1,13 @@
+# ------------------------------------------------------------------------------
+# BAS Issue Configuration
+# =======================
+#   - `cover_figure` - figure to use at the top of the issue page
+#   - `pallette` - accent pallette for this issue (values: 'apricot','blue','fuchsia','lilac','lime','pink','rose','teal')
+#   - `series_issue_number` - numeric issue number
+#   - `special_themed` - is this a special themed issue? uses subtitle, reading line in issue above banner figure
+# ------------------------------------------------------------------------------
+
+cover_figure: issue-01-cover-2-hero
+pallette: 'apricot' 
+series_issue_number: 01
+special_themed: false

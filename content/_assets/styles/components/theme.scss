@@ -1,0 +1,168 @@
+@import "../colors.scss";
+
+$colors: (
+
+  light: (
+
+    theme: (
+      "theme-apricot":(
+        text: $light-apricot,
+        bg: $light-apricot,
+        border: $light-apricot
+        ),
+      "theme-blue":(
+        text: $light-blue,
+        bg: $light-blue,
+        border: $light-blue
+        ),
+      "theme-fuchsia":(
+        text: $light-fuchsia,
+        bg: $light-fuchsia,
+        border: $light-fuchsia
+        ),
+      "theme-lilac":(
+        text: $light-lilac,
+        bg: $light-lilac,
+        border: $light-lilac
+      ),
+      "theme-lime":(
+        text: $light-lime,
+        bg: $light-lime,
+        border: $light-lime
+        ),
+      "theme-pink":(
+        text: $light-pink,
+        bg: $light-pink,
+        border: $light-pink
+        ),
+      "theme-rose":(
+        text: $light-rose,
+        bg: $light-rose,
+        border: $light-rose
+        ),
+      "theme-teal":(
+        text: $light-teal,
+        bg: $light-teal,
+        border: $light-teal
+        ),
+      )
+    ),
+  dark: (
+    //primary: yellow,
+    //secondary: pink,
+    theme: (
+      "theme-apricot":(
+        text: $dark-apricot,
+        bg: $dark-apricot,
+        border: $dark-apricot
+        ),
+      "theme-blue":(
+        text: $dark-blue,
+        bg: $dark-blue,
+        border: $dark-blue
+        ),
+      "theme-fuchsia":(
+        text: $dark-fuchsia,
+        bg: $dark-fuchsia,
+        border: $dark-fuchsia
+        ),
+      "theme-lilac":(
+        text: $dark-lilac,
+        bg: $dark-lilac,
+        border: $dark-lilac
+      ),
+      "theme-lime":(
+        text: $dark-lime,
+        bg: $dark-lime,
+        border: $dark-lime
+        ),
+      "theme-pink":(
+        text: $dark-pink,
+        bg: $dark-pink,
+        border: $dark-pink
+        ),
+      "theme-rose":(
+        text: $dark-rose,
+        bg: $dark-rose,
+        border: $dark-rose
+        ),
+      "theme-teal":(
+        text: $dark-teal,
+        bg: $dark-teal,
+        border: $dark-teal
+        ),
+      )
+    )
+);
+
+@mixin mq($theme-name, $value) {
+  @media (prefers-color-scheme: $theme-name) {
+    //@debug $value;
+
+    @each $theme-key, $theme-value in $value {
+      // @debug $value;
+      $selected-theme: map-get($value, theme);
+
+      // @debug $selected-theme;
+      @if type-of($theme-value)==map {
+        @each $key, $theme in $selected-theme {
+
+          .#{$key} {
+            @each $key, $value in $theme {
+
+              --theme-#{$key}-color: #{$value};
+            }
+          }
+        }
+      }
+
+      @else {
+        --theme-#{$theme-key}-color: #{$theme-value};
+      }
+
+    }
+
+    @content;
+  }
+}
+
+:root {
+  @each $key, $value in $colors {
+
+    @if type-of($value)==map {
+      @include mq($key , $value) {}
+
+      &[data-theme="#{$key}"] {
+
+        @each $theme-key, $theme-value in $value {
+          // @debug $value;
+          $selected-theme: map-get($value, theme);
+
+          // @debug $selected-theme;
+          @if type-of($theme-value)==map {
+            @each $key, $theme in $selected-theme {
+
+              .#{$key} {
+                @each $key, $value in $theme {
+                  --theme-#{$key}-color: #{$value};
+                }
+              }
+            }
+          }
+
+          @else {
+            --theme-#{$theme-key}-color: #{$theme-value};
+          }
+
+        }
+
+      }
+
+    }
+
+    @else {
+      --color-#{$key}: #{$value};
+
+    }
+  }
+}
